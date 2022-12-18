@@ -1,0 +1,209 @@
+208
+Kriven;Govender;Westville;19.34;20.99;19.25;20.16;20.34
+Nicholas;Culverwell;Howard;17.83;15.1;15.66;15.89;17.52
+Yusuf;Seedat;Howard;17.49;14.06;16.9;16.1;16.91
+Rakeen;Ramdeen;PMB;16.29;14.66;17.99;14.23;14.34
+Daniel;Hogg;Edgewood;10.39;12.35;12.56;10.45;11.17
+Charisse;Padayachee;Medical School;18.18;19.95;19.13;19.96;20.22
+Jahnavi;Inderjeet;Westville;18.65;18.9;20.24;18.89;20.01
+Keegan;Naidoo;PMB;10.56;12.88;12.83;12.07;11.64
+Tashik;Manilal;Howard;19.51;19.3;19.33;19.34;18.05
+Kiaan;Patel;PMB;12.25;11.74;11.99;10.39;11.79
+Evashan;Govender;PMB;14.91;14.92;15.99;16.32;15.24
+Ammar;"Mohamed Elsaid";Medical School;17.22;17.25;14.9;17.36;16.95
+Kavi;Moodley;Medical School;15.72;15.52;17.17;15.35;18.0
+Leveshan;Govender;PMB;19.91;19.49;18.4;19.98;20.57
+Peter;Rachman;Edgewood;19.1;20.95;20.51;20.82;19.5
+Muhammad;"Sheriff Uddin";Medical School;15.13;14.19;14.68;16.46;15.54
+Dereshan;Naidoo;PMB;13.72;13.17;13.42;12.3;12.66
+Mvuselelo;Mncube;Medical School;14.97;13.73;14.64;12.91;12.78
+Aston;Gengen;Medical School;18.42;18.77;19.73;19.53;18.05
+Mohamed;Ismail;Westville;11.22;12.69;12.67;12.32;11.93
+Phindile;Xaba;Westville;14.91;14.97;12.31;14.85;13.04
+Nentezeko;Mvelase;Howard;16.62;15.1;17.6;15.18;15.47
+Andile;Qwabe;Howard;20.24;19.35;19.8;19.94;18.82
+Thandokazi;Phunzana;Howard;13.93;14.31;14.95;12.41;12.83
+Muhammad;Raiman;Westville;16.29;14.27;15.92;17.11;15.02
+Lwazi;Ntozakhe;Howard;15.02;16.61;14.0;16.32;14.64
+Linda;Sekhoasha;Edgewood;13.48;12.27;14.79;12.23;14.09
+Trazaq;Pillay;Westville;17.77;14.27;16.8;16.88;16.75
+Isiah;Paramasivan;PMB;20.55;18.53;18.25;19.14;18.21
+Macheba;Masela;Medical School;14.32;16.86;16.62;15.67;17.6
+Nonkanyiso;Ngwezi;Howard;10.18;12.19;12.36;10.02;12.07
+Yeshay;Naidoo;Medical School;20.7;20.77;20.61;18.13;20.36
+Samkelisiwe;Makhathini;Medical School;20.5;19.44;20.04;20.76;19.94
+Kiera;Crookes;Westville;14.4;12.73;13.84;14.01;12.12
+Shayen;Bissessur;Westville;17.0;17.81;14.01;14.0;17.31
+Vishad;Luckraj;Medical School;13.35;12.74;13.42;14.22;14.97
+Sanele;Mhlongo;Edgewood;13.04;14.65;12.79;14.49;13.89
+Khiraam;Singh;Medical School;16.71;16.5;16.7;17.25;17.93
+Zibusiso;Mnguni;Howard;11.38;12.27;11.52;11.78;11.35
+Samukelo;Mkhize;Westville;14.17;14.83;15.73;15.75;14.47
+Alissa;Chetty;Medical School;11.1;10.55;11.33;10.0;10.84
+Yusraa;Khan;Edgewood;14.02;14.06;14.27;13.24;12.77
+Mahi;Bhaw;Medical School;12.73;11.16;12.33;11.56;12.18
+Zizamele;Nyawo;Medical School;19.11;20.12;19.55;18.19;18.14
+Nduduzo;Thusi;PMB;20.34;20.73;19.96;20.95;20.72
+Darshan;Naidoo;Westville;18.3;19.43;19.23;20.72;20.27
+Karmel;Beepraj;Edgewood;12.7;14.31;13.9;13.57;13.03
+Thando;Ngcobo;Westville;12.46;12.57;12.4;14.67;14.66
+Andile;Hlatshwayo;Howard;14.59;17.61;15.5;16.84;17.39
+Caylan;Sardhavu;Medical School;12.57;14.09;12.54;14.52;13.25
+Vyasa;Aiyer;Howard;16.94;14.03;17.13;17.58;15.87
+Khayalethu;Silwanyana;Westville;20.47;20.47;18.8;19.89;19.16
+Andile;Mncube;Edgewood;14.97;14.14;14.4;14.52;13.42
+Takalani;Netshilaphala;Medical School;15.08;14.74;16.36;16.01;16.25
+Lindokuhle;Machangu;Edgewood;20.21;18.18;18.97;18.63;20.56
+Ari�Ya;Pillay;Medical School;17.26;15.36;14.98;14.23;14.01
+Sithokomele;Nxumalo;Medical School;13.95;14.47;13.39;13.37;12.0
+Asemahle;Mpofana;Howard;12.24;12.6;14.65;14.65;13.56
+Lwandile;Hlela;Westville;17.88;17.0;17.29;15.79;14.84
+Nondumiso;Mchunu;Howard;11.12;10.83;12.77;12.71;10.49
+Sbongakonke;Mabaso;PMB;14.0;14.85;15.81;17.28;17.26
+Mhlengi;Mbuyisa;Howard;19.95;21.0;18.84;18.82;19.79
+Sindisiwe;Mahaye;Medical School;20.35;20.59;18.43;20.77;18.45
+Andiswa;Dube;Medical School;12.72;12.61;10.11;10.42;11.24
+Lindokuhle;Mchunu;PMB;11.22;11.08;12.12;11.25;11.26
+Andile;Tshanini;PMB;12.22;12.94;13.82;12.1;14.44
+Ndumiso;Khwela;Medical School;12.2;12.49;11.29;12.53;12.98
+Sayeshen;Govender;Medical School;12.42;11.27;10.31;11.9;10.98
+Banele;Buthelezi;Edgewood;16.22;15.72;16.15;16.47;17.48
+Olwethu;Ngubo;Howard;11.49;10.19;11.29;10.17;12.51
+Luyanda;Ngiba;Westville;10.75;10.44;11.24;11.99;11.65
+Keanu;Naidoo;Howard;16.19;15.96;17.81;16.57;14.63
+Sandille;Gabuza;PMB;15.37;16.75;16.01;17.92;17.67
+Alpana;Sewraj;Medical School;12.15;13.8;13.25;12.44;12.7
+Ismat;Rashid;Howard;10.65;10.94;10.8;11.92;12.43
+Nqobile;Dlodlo;PMB;11.71;11.19;12.23;11.64;10.25
+Kwanele;Sithole;Howard;20.88;20.88;19.67;20.91;19.01
+Khiara;Mudaly;Edgewood;14.25;12.78;14.11;12.84;12.85
+Luyanda;Vilakazi;Westville;12.49;10.25;11.42;11.84;10.59
+Ndumiso;Mthembu;PMB;18.98;18.68;19.47;18.81;20.37
+Thabo;Mthethwa;Westville;14.67;13.79;14.68;12.28;13.8
+Noncedo;Dlamini;Howard;18.63;20.88;19.88;20.35;20.77
+Casey;Pillay;Howard;12.61;11.0;10.77;11.69;12.76
+Nokuphila;Ngubande;Medical School;11.64;12.71;12.61;10.16;10.14
+Josh;Goodwin;PMB;12.44;13.32;12.01;12.01;12.25
+Sokwani;Ntombela;Westville;12.67;11.03;12.25;12.82;10.34
+Ntandoyenkosi;Khumalo;PMB;11.14;11.12;11.4;10.55;11.92
+Mhlenge;Mathenjwa;Medical School;10.59;11.89;10.81;10.88;10.77
+Kwazikwakhe;Mjuleka;PMB;20.19;19.87;18.97;19.71;20.16
+Thabiso;Dlamini;Westville;14.35;12.71;13.43;14.62;14.35
+Amahle;Duma;Edgewood;18.9;19.14;18.61;19.74;19.45
+Wandile;Ngobese;Edgewood;18.46;20.52;18.61;18.64;20.32
+Kwandile;Gwala;Howard;15.68;14.21;15.5;14.68;16.01
+Mbalenhle;Zungu;Edgewood;12.7;11.39;12.75;12.15;10.45
+Cebolenkosi;Msweli;Medical School;16.18;14.26;17.95;17.87;15.4
+Ayabukwa;Ngubelanga;Westville;11.69;10.27;10.78;12.62;10.2
+Fanelesibonge;Thusi;Medical School;11.2;12.46;11.34;10.16;10.55
+Sachin;Chetty;Edgewood;20.59;20.2;18.15;18.96;19.39
+Chirag;Kassie;Westville;10.23;11.93;12.63;11.78;12.91
+Alicia;Naidoo;Medical School;18.07;18.54;19.77;19.04;18.76
+Samantha;Sibanda;Edgewood;14.68;12.45;12.54;14.4;13.81
+Neo;Kekana;Medical School;10.43;12.45;11.49;12.98;10.66
+Olwethu;Gumede;Westville;19.05;20.79;18.23;19.53;20.01
+Ashton;Naicker;Edgewood;14.97;14.27;13.61;12.98;14.1
+Zaakirah;Shaik;Edgewood;19.78;18.69;19.09;18.26;20.14
+Cebisa;Buthelezi;Westville;14.63;12.57;13.8;14.95;13.59
+Busisiwe;Bhengu;PMB;12.23;12.87;12.58;11.54;10.89
+Lindiwe;Ndlovu;PMB;20.2;19.0;20.58;18.43;19.8
+Londeka;Mswane;Edgewood;14.83;13.19;12.19;14.84;13.62
+Zolile;Mzobe;Westville;10.72;11.86;12.27;11.3;10.05
+Nkoskhona;Mnguni;Medical School;19.93;18.26;19.48;20.08;19.66
+Armaan;Jaganath;Westville;20.75;20.89;19.38;20.71;18.15
+Zuzile;Xaba;PMB;17.56;14.15;17.46;17.46;14.03
+Lerato;Mbhele;Medical School;15.74;15.59;16.19;17.84;15.14
+Denisha;Naidoo;Medical School;15.23;15.96;14.43;16.26;17.55
+Darius;Naidoo;Edgewood;12.39;11.86;12.07;11.81;10.69
+Junaid;Hassim;Westville;12.25;11.78;10.84;10.28;10.46
+Savar;Naidoo;PMB;14.69;14.3;15.79;14.45;17.45
+Mondli;Mhlongo;PMB;15.7;17.56;15.27;16.53;14.92
+Sthembile;Kubheka;Westville;16.66;14.48;14.58;17.03;15.59
+Nodumo;Gwala;Howard;11.23;12.19;10.6;10.24;11.93
+Fathimah;Olla;Howard;13.28;14.08;13.67;14.99;13.89
+Mbali;Madlala;Westville;14.42;13.87;14.24;12.16;13.75
+Thubalihle;Buthelezi;Westville;15.13;16.56;17.5;15.68;17.85
+Justin;Govender;Westville;20.45;18.89;20.35;18.6;19.27
+Sherwyn;Pillay;Howard;20.43;20.4;20.06;20.31;20.94
+Shrika;Harbans;Medical School;11.06;10.37;12.49;12.91;11.91
+S'Gcino;Sibiya;Westville;13.47;13.82;14.71;14.99;14.45
+Bongani;Zulu;Edgewood;20.18;18.68;20.01;19.81;18.93
+Nqobile;Sithole;Howard;20.77;18.76;19.41;18.92;18.38
+Azande;Mlotshwa;Westville;13.72;13.86;14.24;13.1;12.89
+Nonjabulo;Mjilo;PMB;11.68;10.85;12.46;10.45;11.53
+Zakithi;Zungu;Edgewood;12.66;12.7;12.41;12.33;12.71
+Sibahle;Mhlongo;Westville;12.33;12.61;13.65;12.28;12.94
+Luyanda;Zwane;Edgewood;15.02;15.18;17.0;14.6;14.4
+Sphesihle;Ndlovu;Medical School;16.6;17.97;15.37;17.33;16.15
+Qhayiya;Mhlauli;Edgewood;13.0;12.85;13.7;13.47;14.54
+Lethokuhle;Buthelezi;Edgewood;13.7;12.88;14.61;12.03;14.45
+Ezra;Madonsela;Medical School;14.82;14.46;14.43;13.98;12.07
+Nomvelo;Zwane;PMB;13.77;12.32;13.16;14.88;13.95
+Sibongokuhle;Khumalo;Medical School;17.55;16.28;16.01;17.32;15.34
+Jauena;Christian;PMB;10.94;10.92;12.37;10.38;10.2
+Sanele;Mbokazi;PMB;18.09;18.47;20.1;18.15;19.25
+Jaedon;Naidu;Medical School;12.2;13.89;14.58;13.89;12.37
+Andiswa;Hlengwa;PMB;16.58;16.17;16.97;14.01;16.87
+Hayley;Rossouw;Howard;10.47;11.74;10.09;12.34;11.43
+Sboniso;Mngomezulu;Howard;14.5;14.3;12.58;13.66;14.31
+Mgciniseni;Sithole;Westville;10.95;12.94;10.13;10.96;12.94
+Avesh;Ramavather;Medical School;13.09;14.12;12.87;14.28;13.75
+Kavish;Brijmohun;Howard;12.57;12.93;11.3;11.31;11.8
+Thandazo;Khumalo;Howard;13.49;12.19;12.6;14.24;14.1
+Lesegolame;Ranaka;Westville;15.64;15.26;14.79;17.44;16.76
+Amanda;Tshangela;Medical School;15.44;14.99;14.51;14.07;16.56
+Olwethu;Mfeka;PMB;18.33;18.0;18.98;19.44;19.62
+Kayleigh;James;Edgewood;16.0;17.15;14.53;17.45;14.99
+Siyanda;Mtetwa;Howard;10.3;12.38;12.97;10.9;12.62
+Nonhlanhla;Mkhize;Edgewood;19.84;20.12;18.29;18.73;19.53
+Shandre;Pillay;Howard;11.67;12.71;10.45;12.31;12.57
+Xolani;Xulu;Edgewood;12.2;12.61;12.03;13.6;12.21
+Hlengiwe;Mthembu;Westville;11.44;12.19;12.94;11.61;12.27
+Seevan;Ponnan;Medical School;12.34;10.06;11.25;10.82;12.96
+Zola;Makhosonke;PMB;12.12;10.04;10.78;12.76;10.32
+Njabulo;Mnguni;Medical School;20.4;18.2;20.26;18.59;18.47
+Asiphe;Mtyaphi;Edgewood;13.79;14.78;12.91;14.1;14.07
+Buyi;Mbonambi;Edgewood;13.49;14.37;12.81;13.3;14.25
+Ziyanda;Chala;Medical School;12.3;12.71;11.67;10.06;12.94
+Sanele;Lembethe;Howard;16.27;14.63;16.79;17.14;15.85
+Yolanda;Mbatha;Westville;16.83;17.14;17.74;15.05;14.86
+Anele;Madiba;Edgewood;12.69;11.13;10.75;10.69;12.57
+Vuyo;Mthembu;PMB;19.69;20.46;19.16;20.21;20.25
+Sikhulile;Dlamini;Medical School;13.97;13.77;12.68;13.56;12.6
+Ayanda;Ndlovu;Medical School;16.12;15.28;17.47;17.14;17.42
+Siyolise;Mzwakali;Howard;10.7;12.27;12.72;12.17;11.23
+Thembelani;Nkosi;Edgewood;19.1;19.13;18.0;19.88;19.44
+Nonzuleko;Mbanjwa;Westville;12.89;13.46;14.53;12.62;13.49
+Larenzo;Naidoo;Edgewood;18.82;18.46;20.86;19.44;18.64
+Olwethu;Mpepanduku;Medical School;12.67;12.72;12.32;10.34;12.58
+Latoya;Madi;Westville;15.43;16.96;15.74;15.84;16.85
+Qinisile;Khumbuza;Edgewood;12.36;11.3;10.55;10.3;12.23
+Amahle;Duma;PMB;20.92;20.21;20.83;20.62;18.94
+Sandile;Buthelezi;Edgewood;16.23;14.35;17.78;17.53;16.72
+Lungisani;Mhlongo;Westville;14.62;14.17;14.66;16.07;17.58
+Simbulele;Mkolokotho;Westville;12.72;12.18;12.34;12.65;12.76
+Nkosinathi;Mdledle;PMB;19.32;18.26;20.58;18.83;18.1
+Mbuso;Buthelezi;Westville;20.51;18.8;20.67;19.55;19.43
+Thembelihle;Zulu;PMB;20.37;19.68;19.87;20.11;19.75
+Archanvinod;Gowda;PMB;12.95;13.9;13.28;13.2;13.66
+S'Phelele;Mpanza;Westville;13.87;14.55;13.67;13.9;14.09
+Nqubeko;Sithole;Westville;12.74;12.92;12.59;12.76;11.86
+Love-Peace;Xaba;Westville;14.19;13.91;14.99;13.91;12.27
+Khulekani;Msomi;Medical School;13.63;12.08;12.88;12.63;12.94
+Minenhle;Mchunu;Westville;14.03;13.56;14.35;12.24;12.3
+Nqubeko;Ngobese;PMB;11.24;11.33;11.77;11.75;10.11
+Amanda;Ngwenya;PMB;15.54;15.67;16.34;16.04;14.2
+Mckyle;Arjoon;PMB;15.49;14.36;14.19;15.13;15.33
+Hamza;Madi;Edgewood;12.29;13.39;13.13;12.77;12.6
+Athenkosi;Manqanqa;Westville;13.77;13.15;14.25;12.25;13.75
+Nosipho;Ndaba;Medical School;18.54;19.39;19.8;19.07;20.82
+Mnqobi;Mngadi;Howard;13.12;14.07;13.6;12.38;13.24
+Sanelisiwe;Radebe;Edgewood;20.92;20.32;19.77;18.42;18.89
+Malusi;Nxumalo;Howard;10.78;10.64;10.03;10.36;11.49
+Sithembile;Nduli;Edgewood;14.06;14.48;17.19;16.13;16.16
+Namhla;Simelane;Westville;10.98;11.8;10.14;11.16;12.83
+Francisco;Mngomezulu;Edgewood;14.82;16.52;17.29;15.04;17.62
+Nothando;Msomi;PMB;11.09;12.41;11.57;10.25;10.41
+Sbongeleni;Magudulela;Edgewood;13.98;13.71;12.76;13.78;13.01
+Mthobisi;Mchunu;Westville;13.22;14.72;13.09;14.66;14.47
+Ovayo;Jonas;Howard;14.22;14.07;13.83;13.35;12.28
