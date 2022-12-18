@@ -1,0 +1,650 @@
+216009680:*:We are hiring: Senior Software Engineer - Proto http://www.reqcloud.com/jobs/719865/?k=0LaPxXuFwczs1e32ZURJKrgCIDMQtRO7BquFSQthUKY&utm_source=twitter&utm_campaign=reqCloud_JobPost #job @awscloud #job #protocol #networking #aws #mediastreaming
+217011628:*:RT @CodeMineStatus: This is true Amazon Web Services https://aws.amazon.com/ #php #html #html5 #css #webdesign #seo #java #javascript htt
+217079284:*:Devops Engineer Aws Ansible Cassandra Mysql Ubuntu Ruby On Rails Jobs in Austin TX #Austin #TX #jobs #jobsearch https://www.jobfindly.com/devops-engineer-aws-ansible-cassandra-mysql-ubuntu-ruby-on-rails-jobs-austin-tx.html
+217069353:*:Happy New Year to all those AWS instances of ours!
+217027128:*:Amazon is hiring! #Sr. #International Tax Manager - AWS in #Seattle apply now! #jobs http://neuvoo.com/job.php?id=dsvkrujig3&source=twitter&lang=en&client_id=658&l=Seattle%20Washington%20US&k=Sr.%20International%20Tax%20Manager%20-%20AWS http://twitter.com/NeuvooAccSea/status/682714048199311366/photo/1
+217036408:*:#AWS bc of per-region limits test/prod should be in isolated regions. else dev could impact prod #lambda &amp; beyond http://docs.aws.amazon.com/lambda/latest/dg/limits.html#limits-safety-throttles
+216010383:*:Isolating dev/prod #aws envs like that is difficult bc of non-ubiquitous service availability. Isn't really a good way around this problem.
+216023315:*:Isolation at account level would work. #aws alludes to this on pg 17 but this makes identity management difficult http://media.amazonwebservices.com/AWS_Security_Best_Practices.pdf
+216027884:*:Red line vs. green line: Reporting on the most vital Reserved Instance metrics: http://blog.cloudability.com/red-line-vs-green-line-reporting-on-reserved-instance-coverage-and-waste/ #AWS http://twitter.com/cloudability/status/682717967965110273/photo/1
+217057683:*:RT @HPE_BigData: We developed a test drive on AWS. Why is it worth trying? @waltermaguire explains: http://community.hpe.com/t5/Big-Data/Don-t-build-the-car-for-a-test-drive-Evaluate-faster-with-the/ba-p/6819020 #BigData https:
+216013665:*:RT @awscloud: AWS CloudFormation now supports AWS WAF &amp; AWS Directory Service for MS Active Directory. https://aws.amazon.com/about-aws/whats-new/2015/12/aws-cloudformation-adds-support-for-aws-waf-and-aws-directory-service-for-microsoft-active-directory/?sc_channel=sm&sc_campaign=launches&sc_publisher=tw_go&sc_content=waf_ds&sc_country=global&sc_geo=global&sc_category=cloudformation&adbsc=social_launches_20151228_56779066&adbid=681570169089429504&adbpl=tw&adbpr=66780587 https://t.co
+217001238:*:AWS Podcasts  Banter Predicsis Peak Urban Massage Contentful Babbel and Intel IoT https://aws.amazon.com/blogs/aws/aws-podcasts-banter-predicsis-peak-urban-massage-contentful-babbel-and-intel-iot/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:%20AmazonWebServicesBlog%20(Amazon%20Web%20Services%20Blog)
+214505319:*:Mighty Big Data Set: Month in Review - Lots for big data enthusiasts in December on the AWS Big Data Blog. Take... https://blogs.aws.amazon.com/bigdata/post/TxV5JXBROJC8HK/Month-in-Review
+217079267:*:Limited info out there on #aws dev/prod isolation topic so I guess those are the only options: region OR account. each with diff pros/cons
+217021970:*:Great read on AWS VPC for startups. #AWSCloud #COMMUNICATE_WELL https://medium.com/aws-activate-startup-blog/what-startups-should-know-about-amazon-vpc-part-1-bebe94b7f228#.aed1cdydi
+205505307:*:Is there a cheaper cloud provider that offers everything AWS does? VPCs ELBs SGs RDS elasticache etc?
+217010318:*:Mighty Batman Set: Month in Review - Lots for Batman enthusiasts in December on the AWS Batman Blog. Take... https://blogs.aws.amazon.com/bigdata/post/TxV5JXBROJC8HK/Month-in-Review
+217024132:*:RT @jeffbarr: Some new #AWS Podcasts  Banter Predicsis Peak Urban Massage Contentful Babbel and Intel IoT - https://aws.amazon.com/blogs/aws/aws-podcasts-banter-predicsis-peak-urban-massage-contentful-babbel-and-intel-iot/
+214507283:*:RT @Capgemini: How can your business benefit from catalog-based IT services by #Cloud providers like #AWS? https://www.capgemini.com/beyond-the-buzz/2016-tech-predictions?utm_source=twitter&utm_medium=text&utm_term=predictions&utm_content=campaign&utm_campaign=businesstechpredictions2016 https://
+217014556:*:RT @jpaulreed: Happy New Year to all those AWS instances of ours!
+215013437:*:Learn how to extend #cloud security to #AWS to ensure your organization's data is secure http://info.palerra.com/learn-about-loric-for-aws-10-2015-lp.html?link=homepage http://twitter.com/palerrainc/status/682726753551413249/photo/1
+215008975:*:"Microsoft Azure vs Amazon AWS Public Cloud Services https://blog.znetlive.com/microsoft-azure-vs-amazon-aws/#AzurevsAWS #AmazonAWS #MicrosoftAzure"
+217063656:*:How awesome it was to be in #engineering at @Battlefy -- psst they are #hiring! http://blog.battlefy.com/how-we-ship/ #docker #aws #nodejs
+216010839:*:#AWS #/ Cloud Specialist (IT Infrastructure / Architecture) http://neuvoo.co.uk/job.php?id=p8zbummukb&source=twitter&lang=en&client_id=550&l=Stockport%20England%20GB&k=AWS%20/%20Cloud%20Specialist%20(IT%20Infrastructure%20/%20Architecture) http://twitter.com/NeuvooLogMan/status/682729628818096128/photo/1
+215007249:*:RT @monkchips: I think there is a world market for maybe five computers - @awscloud is one of them.
+216003502:*:RT @awscloud: The AWS Developer Blog now includes #Python &amp; #GoLang - https://aws.amazon.com/blogs/developer/?sc_channel=sm&sc_campaign=devblog_2015&sc_content=dev_blog&sc_country=global&sc_geo=global&sc_category=awsdeveloperblog&sc_publisher=tw_go&adbsc=social_blogs_20151230_56802176&adbid=682235269009903616&adbpl=tw&adbpr=66780587 http://twitter.com/awscloud/status/682235269009903616/photo/1
+217031609:*:AWS Lambda opens so many possibilities @joelgrus. RT @current_moon:
+212535868:*:"RT @BotmetricHQ: It was an #AWS-ome year!Botmetric's Step Up On AWS #Cloud  Year In Review: https://www.botmetric.com/blog/botmetrics-step-up-on-aws-cloud-year-in-review/#GoodBye2015 https://"
+217029636:*:Systems Administrator/DevOps Engineer AWS Linux Java - Surrey #job #hiring http://jobrep.com/job/1464024/systems-administrator-devops-engineer-aws-linux-java-surrey/gb/?utm_source=social&utm_medium=soc&utm_campaign=channels
+217022172:*:@christruncer odd I'm building Kali 2.0 from a basic Debian Jessi box on AWS installing kali-linux-all package still getting prompts...
+216052105:*:How To Improve #AWS IAM #Security- https://blog.conjur.net/how-to-improve-aws-iam-security?utm_content=25575822&utm_medium=social&utm_source=twitter
+217001412:*:K. Will ligo then off to somewhere. Hahaha aws
+216074476:*:Great Job Opportunity: Technical Project Manager (Java &amp; AWS) in Hyderabad India http://www.bullhornreach.com/job/2027084_technical-project-manager-java-aws-hyderabad-india?utm_campaign=v1&shortlink=4163998&utm_content=1&utm_source=twitter.com&referer=None&utm_medium=referral #job
+217025747:*:RT @paf31: PureScript now runs in the browser on Node natively (C++11 backend) on iOS and Android (React Native) and on AWS Lambda! Did
+215034202:*:I figured it out and posted the (a) solution: https://medium.com/@davidrupp/running-titan-graph-database-with-dynamodb-backend-66223ebd2c21 /cc @awscloud
+217050448:*:RT @paf31: PureScript now runs in the browser on Node natively (C++11 backend) on iOS and Android (React Native) and on AWS Lambda! Did
+217017665:*:Welcome to the AWS Developer Blog for Go | AWS Developer Blog #golang  https://aws.amazon.com/fr/blogs/developer/welcome-to-the-aws-developer-blog-for-go/
+216070428:*:RT @paf31: PureScript now runs in the browser on Node natively (C++11 backend) on iOS and Android (React Native) and on AWS Lambda! Did
+216007786:*:Aws. Happy three year Twitterversary @TheMickyDolenz1! #OnThisDay #DECOPIC http://twitter.com/Aviatrixt/status/682741395459805184/photo/1
+216037003:*:@MurrayNewlands My supportive hubs despite vicious mood swings hilarious daughter aws sis best friends&amp; Tweeps! #whomadeyour2015
+216048203:*:Apply now to work for Cognizant as #AWS #DevOps Engineer in #Nashville #jobs http://neuvoo.com/job.php?id=kzv9p9vu6u&source=twitter&lang=en&client_id=857&l=Nashville%20Tennessee%20US&k=AWS%20DevOps%20Engineer
+216036946:*:RT @jpaulreed: Happy New Year to all those AWS instances of ours!
+216061359:*:88% OFF AWS Certified Solutions Architect - Associate 2015 - Use http://onlinecoursespro.com/awscert for discount! Become Amazon Web Services Certifie
+216006870:*:https://www.youtube.com/watch?v=bCiqJFWBUgw&feature=youtu.be deleting images from gallery and #aws #s3 from our #AngularJS  application
+217058472:*:If you work with and run @awscloud environments you need to check out @CloudScaleio to help you reduce you costs #aws
+217021678:*:RT @ChelaChaudhary: I am biggest fan @palakmuchhal3 Bcoz she's so many aws sing a song in 2015she's carry on this preform next year pray t
+216036478:*:We are hiring: Software Development Engineer - Developer Experience Software Development E http://www.reqcloud.com/jobs/719801/?k=5dRNnwKgBZOcBvRUm20H0JcReMolgemYtkHU4cU3dmA&utm_source=twitter&utm_campaign=reqCloud_JobPost #job @awscloud #aws
+215018500:*:AWS Lambda promised VPC support by the end of the year. Guess they didn't make it. https://aws.amazon.com/blogs/aws/aws-lambda-update-python-vpc-increased-function-duration-scheduling-and-more/
+216070098:*:@adafruit just did a fantastic live stream getting red-yellow-green LED tower to flash when github events occur. Used AWS API and Lambda.
+214514911:*:Cognizant is hiring a #AWS #Solution Architect apply now! #Orlando #jobs http://neuvoo.com/job.php?id=jj3uf5xhhj&source=twitter&lang=en&client_id=201&l=Orlando%20Florida%20US&k=AWS%20Solution%20Architect
+216029800:*:We are hiring: Software Developer Engineer So http://www.reqcloud.com/jobs/719867/?k=yc5UduEb4swvBWOsfmdmHESIJdsLbetj7wrBvh6MCY4&utm_source=twitter&utm_campaign=reqCloud_JobPost #job @awscloud #ios #android #windows #job #workspaces #aws @aws
+215063037:*:RT @linuxacademyCOM: AWS training library available with all three associate certifications and AWS CSA Professional starting at just $9! h
+213538309:*:RT @jbueza: How awesome it was to be in #engineering at @Battlefy -- psst they are #hiring! http://blog.battlefy.com/how-we-ship/ #docker #aws #nodejs
+214505918:*:RT @amitavroy7: https://www.youtube.com/watch?v=bCiqJFWBUgw&feature=youtu.be deleting images from gallery and #aws #s3 from our #AngularJS  application
+215001065:*:RT @nimitpattanasri: A startup journey on AWS: from bare metal monolith to serverless microservices by @benorama https://medium.com/@benorama/a-startup-journey-on-aws-from-bare-metal-monolith-to-serverless-microservices-80231624fbd9
+216006994:*:AWS Podcasts  Banter Predicsis Peak Urban Massage Contentful B https://aws.amazon.com/blogs/aws/aws-podcasts-banter-predicsis-peak-urban-massage-contentful-babbel-and-intel-iot/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:%20AmazonWebServicesBlog%20(Amazon%20Web%20Services%20Blog)
+216045808:*:...and Satellite and Automatic Weather Station (AWS) done across the country... pinpointing cyclones timing and landfall possible now...
+216036759:*:RT @Zementis: How do you put your #datascience into action for #bigdata or #IoT? Launch-Deploy-Execute w #PMML on #AWS #cloud https://t.co/
+217013433:*:RT @Werner: Introducing the Amazon Elasticsearch service a great partnership between @elastic and #AWS https://aws.amazon.com/blogs/aws/new-amazon-elasticsearch-service/
+217037499:*:RT @tdhopper: AWS Lambda opens so many possibilities @joelgrus. RT @current_moon:
+217015786:*:@Sidra_tm #AWSLoft NY #TBT: @awscloud #IoT Hack Days (plus pre-#NYE surprise by @pibakerie) https://storify.com/yangbodu/awsiothackday http://twitter.com/mitgc_cm/status/682780184609734656/photo/1
+217042897:*:RT @linuxacademyCOM: AWS training library available with all three associate certifications and AWS CSA Professional starting at just $9! h
+216045692:*:@DA_Stockman Valuation bubble maybe but there no booksellers.they will be the biggest IT company in 5 years.thats AWS for you.its 22 today
+214512589:*:RT @linuxacademyCOM: AWS training library available with all three associate certifications and AWS CSA Professional starting at just $9! h
+216000939:*:#python aws-cli-menu 0.4.12: Menu system for Managing AWS Accounts https://pypi.python.org/pypi/aws-cli-menu/0.4.12?utm_source=dlvr.it&utm_medium=https://pypi.python.org/pypi?%253Aaction%3Drss
+217032715:*:Excited for the new year where I should be able to do more of this for my day job on @awscloud
+214505234:*:@HealthdirectAU Turns to AWS for Fast Efficient Delivery of Health Services https://www.youtube.com/watch?v=mwkJGy7guiE&utm_content=buffer17635&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer #amazon #cloud #cloudgenera #in
+216006010:*:Time is running out for @google in cloud efforts against @awscloud @Azure;need change in @googlecloud strategy/products for developers/enter
+214523028:*:https://www.youtube.com/watch?v=nL2KyKgYqFY Sr Aws Cloud Engineer With Python Jobs #jobs #jobsearch https://www.jobfindly.com/sr-aws-cloud-engineer-with-python-jobs.html http://twitter.com/jobfindlypython/status/682792247683870720
+216018336:*:"How much can Diane impact in @google cloud business against AWS &amp;Azure?http://finance.yahoo.com/news/google-director-adds-missing-skills-050100221.html @awscloud @Azure @IBM @Oracle @VMware @Dell"
+216009670:*:Multiple conversations at this new years party about Amazon Web Services #Austin #devops
+216027541:*:RT @docker: Deploy Docker on AWS via Marketplace https://cards.twitter.com/cards/18ce53v0cly/15qy5
+217067552:*:Building a Serverless Dynamic DNS System with AWS by @AWSActivate https://medium.com/aws-activate-startup-blog/building-a-serverless-dynamic-dns-system-with-aws-a32256f0a1d8#.wjiyhz8k2
+217043491:*:#Linux #Systems Engineer/ Junior Systems Adminstrator - AWS - http://neuvoo.co.uk/job.php?id=dza35fw0ts&source=twitter&lang=en&client_id=1547&l=London%20England%20GB&k=Linux%20Systems%20Engineer/%20Junior%20Systems%20Adminstrator%20-%20AWS+- http://twitter.com/NeuvooITLondon/status/682797162867077120/photo/1
+216035695:*:@KoleHam @VaMitch53 @realDonaldTrump @bean_kay @PeggyBRooster Kole once again study first! AWs used least in most shootings
+215052997:*:We are hiring: Software Development Manager - AWS S3 Frontend Sof http://www.reqcloud.com/jobs/694883/?k=TRrJFKDkPa64OpDFO8/ckpSArxHUEc0DQR5VP%205wtLQ&utm_source=twitter&utm_campaign=reqCloud_JobPost #job @awscloud #manager #s3 #API #operations
+217064909:*:We are hiring: Software Development Manager - AWS S3 Frontend Sof http://www.reqcloud.com/jobs/694883/?k=TRrJFKDkPa64OpDFO8/ckpSArxHUEc0DQR5VP%205wtLQ&utm_source=twitter&utm_campaign=reqCloud_JobPost #job awscloud #manager #s3 #API #operations
+216012579:*:HPC Cloud Data Management at AWS http://insidehpc.com/2015/12/hpc-cloud-data-management/ #cloud #infosec
+217039130:*:AWS SDK for Ruby 2.2.8 https://aws.amazon.com/sdk-for-ruby/
+217007348:*:https://www.hackerrank.com/tests/gaa9i3qssf6/3d6fc3aa291978608b27c481477c1dab AWS Linux Hacke http://www.reqcloud.com/jobs/711091/?k=j01sjkPXwv25zTKW42%20iVo2OW1PDxPm3Z9EWDTA%20Rmw&utm_source=twitter&utm_campaign=reqCloud_JobPost #job @Amazon #linux #awslinuxchallenge #AWS @Amazon #HackerRank
+217063763:*:RT @IBMBluemix: You know @SoftLayer &amp; #AWS so let's compare the two. Quick blog gives insight. http://blog.softlayer.com/2014/softlayer-and-aws-whats-difference?linkId=19732020 #cloud https://t.co
+217038352:*:RT @thenewstack: The Year Ahead: The Promise of Stateless Computing http://thenewstack.io/year-ahead-stateless-computing/ cc @markrussinovich @wimcoekaerts #AWS #Python
+214509964:*:RT @avishnyakov: AWS SDK for .NET development - https://blogs.aws.amazon.com/net/post/Tx3STYSCLGOJWWI/Modularization-Released-to-NuGet-in-Preview #AWS #cloud
+216050475:*:every time i open the aws console  https://twitter.com/tanner_irl/status/682808472732327936
+217011174:*:"RT @Werner: Simplification is the Technology Trend for 2016- http://www.linkedin.com/ #AWS http://twitter.com/Werner/status/679025894233509889/photo/1"
+217027499:*:gopalr641 do you develop? #AmazonIndia: AWS Kumo #Software #Developer - Knowledge Platform (#Bengaluru) #job  http://twitter.com/gopalr641/status/682808842984513536
+215081036:*:We are hiring: Software Development Engineer http://www.reqcloud.com/jobs/719869/?k=IasBA3/2n3%20lIARgsXbTPWfeDKXd0IaaONzwGU/aT7c&utm_source=twitter&utm_campaign=reqCloud_JobPost #job @awscloud #aws #ec2 #windows #kernel #devicedriver #virtuali
+212500781:*:#Senior #Software Development Engineer - AWS Digital Media Services http://neuvoo.com/job.php?id=ecjqcjmsgi&source=twitter&lang=EN&client_id=1073&l=Palo%20Alto%20California%20US&k=Senior%20Software%20Development%20Engineer%20-%20AWS%20Digital%20Media%20Services http://twitter.com/NeuvooEngPaloAl/status/682814882304135172/photo/1
+217050731:*:#System #Administrator - Windows + AWS http://neuvoo.co.in/job.php?id=q3j3wdhh0m&source=twitter&lang=en&client_id=2333&l=Vadodara%20Gujarat%20IN&k=System%20Administrator%20-%20Windows%20%2B%20AWS
+217004297:*:RT @analyticbridge: Experimenting with AWS Machine Learning for Classification http://www.datasciencecentral.com/profiles/blogs/experimenting-with-aws-machine-learning-for-classification
+216007658:*:AWS Podcasts  Banter Predicsis Peak Urban Massage Contentful Babbel and Intel IoT - https://aws.amazon.com/blogs/aws/aws-podcasts-banter-predicsis-peak-urban-massage-contentful-babbel-and-intel-iot?utm_content=buffer40174&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer #worthreading
+216006042:*:We are hiring: Senior Software Engineer - AWS CodePipeline Senior Software Engineer - AWS CodeP http://www.reqcloud.com/jobs/720215/?k=5gu17r0AcU2W2yWBeppTGARQTXmU6pYDvisKsuikiWg&utm_source=twitter&utm_campaign=reqCloud_JobPost #job @awscloud
+217079609:*:RT @analyticbridge: Experimenting with AWS Machine Learning for Classification http://www.datasciencecentral.com/profiles/blogs/experimenting-with-aws-machine-learning-for-classification
+215042364:*:Entwickler Amazon Web Services (m/w): Stellenangebote Jobs Entwickler Amazon Web Services (m http://www.megajob24.de/stellenangebote-jobs/stelenangebote-entwickler-amazon-web-services-mw-jobs/?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed:%20Megajob24-Deutschland%20(Megajob24%20Deutschland%20%C2%BB%20Aktuelle%20Stellenangebote)
+216067465:*:New services cloud disruption top AWS news in 2015 http://searchaws.techtarget.com/news/4500269498/New-services-cloud-disruption-top-AWS-news-in-2015 via @techtarget
+217059071:*:#Linux #System Administrator with AWS http://neuvoo.co.in/job.php?id=5nhd53yddp&source=twitter&lang=en&client_id=2333&l=Vadodara%20Gujarat%20IN&k=Linux%20System%20Administrator%20with%20AWS
+217028569:*:#Senior #Devops Specialist - Linux Windows AWS Apache nginx http://neuvoo.co.uk/job.php?id=8mvnph3mvv&source=twitter&lang=en&client_id=719&l=Bristol%20England%20GB&k=Senior%20Devops%20Specialist%20-%20Linux%20Windows%20AWS%20Apache%20nginx
+214507442:*:RT @datadoghq: The Top 5 AWS EC2 Performance Problems: https://cards.twitter.com/cards/21ablq/15bk2
+216017947:*:Amazon is hiring a #Support #Engineer - AWS S3 apply now! #Herndon #jobs http://neuvoo.com/job.php?id=wyauzynyy7&source=twitter&lang=en&client_id=1750&l=Herndon%20Virginia%20US&k=Support%20Engineer%20-%20AWS%20S3
+217007423:*:It's A Brand New Batman AWS World - 41 #BatmanAWS Things You Need To Know. Please Retweet http://theartofservice.com/Working-Documents-for-Leaders-in-IT?utm_content=buffere2bc5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+217014607:*:RT @InfonomicsToday: http://Infonomics.Today Experimenting with AWS Machine Learning for Classification http://www.datasciencecentral.com/profiles/blogs/experimenting-with-aws-machine-learning-for-classification
+216005552:*:New #job opening at CyberCoders in #Austin - #PHP #Developer: MVC SaaS AWS MySQL Agile #jobs http://neuvoo.com/job.php?id=ij9rpwtaa9&source=twitter&lang=en&client_id=178&l=Austin%20Texas%20US&k=PHP%20Developer:%20MVC%20SaaS%20AWS%20MySQL%20Agile
+215019878:*:A AWS Certified Solutions Architect - Associate Look That's Entirely New - 29 #AWSCertifiedSolutionsArchitect-Assoc http://theartofservice.com/Working-Documents-for-Leaders-in-IT?utm_content=buffer75916&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+216059098:*:#Big #Data / Cloud Engineer - JAVA NOSQL Cassandra AWS DevOps http://neuvoo.com/job.php?id=606cre4fbx&source=twitter&lang=en&client_id=1494&l=Littleton%20Colorado%20US&k=Big%20Data%20/%20Cloud%20Engineer%20-%20JAVA%20NOSQL%20Cassandra%20AWS%20DevOps
+215032276:*:RT @NeuvooITAustin: New #job opening at CyberCoders in #Austin - #PHP #Developer: MVC SaaS AWS MySQL Agile #jobs http://neuvoo.com/job.php?id=ij9rpwtaa9&source=twitter&lang=en&client_id=178&l=Austin%20Texas%20US&k=PHP%20Developer:%20MVC%20SaaS%20AWS%20MySQL%20Agile
+216009680:*:Hope you all have some AWS training  in your New Year's Resolutions #IKnowaWebsite
+217011628:*:A AWS Certified Solutions Architect - Associate Look That's Entirely New - 29 #AWSCertifiedSolutionsArchitect-Assoc http://theartofservice.com/Working-Documents-for-Leaders-in-IT?utm_content=buffer9f6b6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+217079284:*:RT @acloudguru: Hope you all have some AWS training  in your New Year's Resolutions #IKnowaWebsite
+217069353:*:RT : Experimenting with AWS  for Classification        https://twitter.com/HatimHegab/status/682837327815688192
+217027128:*:AWS American Weigh ALX-210 Analytical Lab Balance - 210 Gram x 0.1 Milligram with usb rs232 - http://www.amazon.com/exec/obidos/ASIN/B00R4Y5QNG/ref=nosim/industrial__supply-20 #science #amazon
+217036408:*:1015 Devops Engineer With Aws Chef 2 Jobs in San Diego CA #SanDiego #CA #jobs #jobsearch https://www.jobfindly.com/1015-devops-engineer-with-aws-chef-2-jobs-san-diego-ca.html
+216010383:*:AWS Podcasts  Aerobatic Aire Prairie Cloud and Osper https://aws.amazon.com/blogs/aws/aws-podcasts-aerobatic-aire-prairie-cloud-and-osper?utm_content=buffer758b6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer #aws #cloud #computing
+216023315:*:Happy New Year for 2016 to all our customers and friends from all at AWS
+216027884:*:RT CloudCareers: CloudCareers  Sr DevOps Architect - Amazon Web Services Inc. - Cambridge MA: Designing sof... http://www.indeed.com/viewjob?t=Senior%20Devop%20Architect&c=Amazon%20Web%20Services&l=Cambridge%20MA&jk=8d4a9b66cd7e62ff&utm_source=twitterfeed&utm_medium=twitter
+217057683:*:Apply now to work for Amazon as #Senior #Network Development Engineer - AWS Infra in #PaloAlto #jobs http://neuvoo.com/job.php?id=76f0ddmjrc&source=twitter&lang=EN&client_id=1073&l=Palo%20Alto%20California%20US&k=Senior%20Network%20Development%20Engineer%20-%20AWS%20Infra
+216013665:*:#Software #Development Engineer - AWS Identity &amp; Access - Globally Distributed Backend store http://neuvoo.com/job.php?id=t6zhikfeec&source=twitter&lang=en&client_id=1625&l=Seattle%20Washington%20US&k=Software%20Development%20Engineer%20-%20AWS%20Identity%20%26%20Access%20-%20Globally%20Distributed%20Backend%20store http://twitter.com/NeuvooRenton/status/682850142626672640/photo/1
+217001238:*:Cool IoT project done on the fly by @adafruit using github AWS Lambda and MQTT. Could use some Eclipse IDE tho. https://www.youtube.com/watch?v=TnjIXlnaN00
+214505319:*:Byte Size News! http://paper.li/_apreston/1333102144?edition_id=971453c0-b067-11e5-b5fd-002590a5ba2d #Cloud #AWS #Azure #Leadership
+217079267:*:#Taipei #Jobs Cloud Engineer - Windows Amazon Web Services (AWS): Taipei http://jobviewtrack.com/en-gb/job-491b414e410b1a0a25114e04010f0b021722070d1b054348585e2f130600431b571069535c565c1740/a8d25d85d06995d6d3ba9b22c0da7a7f.html?affid=1b8a26c5ef5aa9b4c653af3f2c55b768&utm_source=dlvr.it&utm_medium=twitter &gt;&gt; For More Jobs  Please Go2 Our Page!
+217021970:*:Mqtt client per AWS
+205505307:*:aws
+217010318:*:#TaipeiJobs Cloud Engineer - Windows Amazon Web Services (AWS): Taipei City - A successful and ... http://jobviewtrack.com/en-gb/job-491b414e410b1a0a25114e04010f0b021722070d1b054348585e2f130600431b571069535c565c1740/a8d25d85d06995d6d3ba9b22c0da7a7f.html?affid=7b2e27d9738a79f5&utm_source=twitterfeed&utm_medium=twitter #Taipei #Jobs
+217024132:*:Thanks @awscloud this isn't ambiguous at all... http://twitter.com/cajacaliente/status/682858386765971456/photo/1
+214507283:*:RT @linuxacademyCOM: AWS CSA Association and Professional available with labs study guides and practice exams first month $9! https://t.c
+217014556:*:RT @jeffbarr: Some new #AWS Podcasts  Banter Predicsis Peak Urban Massage Contentful Babbel and Intel IoT - https://aws.amazon.com/blogs/aws/aws-podcasts-banter-predicsis-peak-urban-massage-contentful-babbel-and-intel-iot/
+215013437:*:RT @dougschaefer: Cool IoT project done on the fly by @adafruit using github AWS Lambda and MQTT. Could use some Eclipse IDE tho. https://
+215008975:*:#Ipswich #Jobs Lamp Architect AWS Linux Development Ipswich Suffolk: Ifftner Solutions - Ipsw... http://jobviewtrack.com/en-gb/job-4e1d41414c091f6c4606430b01150b04112218010706520b5c5f4e0c061a421754610c041802094f04050c1d5e2951444311176f164717545a57/fadee5883e98403b8bf79b23b428f336.html?affid=7b2e27d9738a79f5&utm_source=twitterfeed&utm_medium=twitter #IpswichJobs
+217063656:*:We are hiring: Senior Software Engineer - Win http://www.reqcloud.com/jobs/719871/?k=YpVUenn4L6fKYkCYOmsf7h2zM3bbPDsFNGaobm92KO0&utm_source=twitter&utm_campaign=reqCloud_JobPost #job @awscloud #distributedcomputing #aws #windows #job @awsclou
+216010839:*:Check out this #job: #AWS #Software Engineer at The Beck Group in #Dallas #jobs http://neuvoo.com/job.php?id=xn9a5ea7hy&source=twitter&lang=en&client_id=670&l=Dallas%20Texas%20US&k=AWS%20Software%20Engineer http://twitter.com/NeuvooEngDal/status/682865037925609472/photo/1
+215007249:*:RT @gmbrady: 2015 wasn't about AWS. It was about everybody getting ready to try to beat AWS http://www.theregister.co.uk/2015/12/28/2015_year_review_enterprsie_cloud/
+216003502:*:#Stockport #Jobs AWS / Cloud Specialist (IT Infrastructure / Architecture): Applause IT - http://jobviewtrack.com/en-gb/job-1b1f414c5f070707531143171d130b650c4e121a08005e59484e59111d0b251d54431b110b040c4118011a0728584d484e0d0e024e07546101154e0e0b4606091a07585e5e5958160a6f164013575e59/9cc29182c29f7c0c25205a2e4ab0a4d7.html?affid=1b8a26c5ef5aa9b4c653af3f2c55b768&utm_source=dlvr.it&utm_medium=twitter #Job #StockportJobs
+217031609:*:#AWS #Certified Solutions Architect - Associate 2015 |Just $10|#Udemy #Bestseller #Coupon https://www.udemy.com/aws-certified-solutions-architect-associate-2015/?siteID=DAI0zMBmpjc-IlpJRtNoecLgq66FKyg_vQ&LSNPUBID=DAI0zMBmpjc
+212535868:*:Brilliant tool to generate terraform scripts based on your existing AWS configuration: http://terraforming.dtan4.net/
+217029636:*:Announcing Support for AWS Lambda Metrics https://www.reddit.com/r/programming/comments/3z09u7/announcing_support_for_aws_lambda_metrics/ #Programming submitted by sanfordricardo[link] [comment]
+217022172:*:Building a Serverless Dynamic DNS System with AWS by @AWSActivate https://medium.com/aws-activate-startup-blog/building-a-serverless-dynamic-dns-system-with-aws-a32256f0a1d8
+216052105:*:RT @IBMBluemix: You know @SoftLayer &amp; #AWS so let's compare the two. Quick blog gives insight. http://blog.softlayer.com/2014/softlayer-and-aws-whats-difference?linkId=19732020 #cloud https://t.co
+217001412:*:Announcing Support for AWS Lambda Metrics: submitted by  sanfordricardo  [link] [comment] https://www.reddit.com/r/programming/comments/3z09u7/announcing_support_for_aws_lambda_metrics/?utm_medium=twitter&utm_source=twitterfeed
+216074476:*:5 AWS mistakes you should avoid https://cloudonaut.io/5-aws-mistakes-you-should-avoid/
+217025747:*:What is Amazon Web Services http://jwum.com/what-is-amazon-web-services/ via @mindiam #webdev #ruby #php #c++ #servers #retweet #ses #mysql #databases
+215034202:*:BigDataTweetBot Developer? Join us 4 #FreeHousingSF. RT TopCourses_: 88% off #AWS Certified #Developer - Associat http://twitter.com/BigDataTweetBot/status/682876575122112512
+217050448:*:RT @UPTutorials: Announcing Support for AWS Lambda Metrics: submitted by  sanfordricardo  [link] [comment] https://www.reddit.com/r/programming/comments/3z09u7/announcing_support_for_aws_lambda_metrics/?utm_source=http://ultimateprogrammingtutorials.info/&utm_medium=Ultimate%20Programming%20Tutorials&utm_campaign=RSS&utm_term=http://ultimateprogrammingtutorials.info/&utm_content=http://ultimateprogrammingtutorials.info/ #Program
+217017665:*:Announcing Support for AWS Lambda Metrics https://www.reddit.com/r/programming/comments/3z09u7/announcing_support_for_aws_lambda_metrics/
+216070428:*:RT @UPTutorials: Announcing Support for AWS Lambda Metrics: submitted by  sanfordricardo  [link] [comment] https://www.reddit.com/r/programming/comments/3z09u7/announcing_support_for_aws_lambda_metrics/?utm_source=http://ultimateprogrammingtutorials.info/&utm_medium=Ultimate%20Programming%20Tutorials&utm_campaign=RSS&utm_term=http://ultimateprogrammingtutorials.info/&utm_content=http://ultimateprogrammingtutorials.info/ #Program
+216007786:*:Announcing Support for AWS Lambda Metrics #programming http://blog.librato.com/posts/aws-lambda-integration http://twitter.com/brennankbrown/status/682881044777963520/photo/1
+216037003:*:"The Google attack: How I attacked myself using Google Spreadsheets and I ramped up a $1000 bandwidth bill #ouch #AWShttp://www.behind-the-enemy-lines.com/2012/04/google-attack-how-i-self-attacked.html?m=1"
+216048203:*:The Most Popular AWS Security Blog Posts in 2015 http://blogs.aws.amazon.com/security/post/Tx4QX7W51NDSLO/The-Most-Popular-AWS-Security-Blog-Posts-in-2015
+216036946:*:RT @linuxacademyCOM: The largest training library with practice exams exercises  self-paced labs AWS Linux OpenStack and more! https:/
+216061359:*:10 perfirmance tips in AWS Redshift http://blogs.aws.amazon.com/bigdata/post/Tx31034QG0G3ED1/Top-10-Performance-Tuning-Techniques-for-Amazon-Redshift
+216006870:*:Cognizant is hiring a #AWS #Engineer apply now! #Charlotte #jobs http://neuvoo.com/job.php?id=vm6jfggwdv&source=twitter&lang=en&client_id=825&l=Charlotte%20North%20Carolina%20US&k=AWS%20Engineer
+217058472:*:#Corporate #Counsel AWS Trade Compliance needed in #Seattle at Amazon. Apply now! #jobs http://neuvoo.com/job.php?id=j25v8wwmej&source=twitter&lang=en&client_id=1614&l=Seattle%20Washington%20US&k=Corporate%20Counsel%20AWS%20Trade%20Compliance http://twitter.com/NeuvooKirkland/status/682887856659017728/photo/1
+217021678:*:RT @awscloud: How-to: build a serverless dynamic DNS system w/ a small script and several AWS services https://medium.com/aws-activate-startup-blog/building-a-serverless-dynamic-dns-system-with-aws-a32256f0a1d8?adbsc=startups_20151230_56830956&adbid=682256867200925696&adbpl=tw&adbpr=66780587 https://t.co
+216036478:*:@AWSSupport I'm trying to get support re my AWS account. This is urgent and critical. I haven't heard back in the last hour. Please DM me.
+215018500:*:Software Development Manager- AWS Platform http://www.careerbuilder.com/jobseeker/jobs/jobdetails.aspx?Job_DID=J3F6RS79FC2DKV6BJ5T&siteid=homepage&showNewJDP=yes&ipath=rss_geoip
+216070098:*:@swardley AWS competitors need to think about what is their goal. Its not possible to win IaaS any more than win electricity market.
+214514911:*:RT @swardley: @paavolainen : it's a commodity / utility market AWS provides the de facto and I agree that most are failing to adapt to thi
+216029800:*:Aws Devops Consultant Jobs in Philadelphia PA #Philadelphia #PA #jobs #jobsearch https://www.jobfindly.com/aws-devops-consultant-jobs-philadelphia-pa.html
+215063037:*:We are hiring: Amazon S3 Software Development Engineer http://www.reqcloud.com/jobs/723383/?k=cEGHeubGOG3sg5ar7MlSlgouD7IHod3LDEp/XBUdCCc&utm_source=twitter&utm_campaign=reqCloud_JobPost #job @awscloud #sde #java #lifecycle #AWS #s3 #storage
+213538309:*:RT @awscloud: Read our Q&amp;A blog with Lt Col Maria Schneider to learn about her experience at #AWS https://aws.amazon.com/blogs/publicsector/military_fellowship/?adbsc=social_20151230_56776366&adbid=682278238580682752&adbpl=tw&adbpr=66780587 https://t.co/MtSU
+214505918:*:RT @awscloud: Introducing Amazon VPC NAT Gateway: A managed NAT service! Learn more on the #AWS blog: https://aws.amazon.com/blogs/aws/new-managed-nat-network-address-translation-gateway-for-aws/?sc_channel=sm&sc_campaign=launces&sc_publisher=tw_go&sc_content=managed_nat&sc_country=global&sc_geo=global&sc_category=multiple_nat&adbsc=social_launches_20151217_56462876&adbid=677544171247239170&adbpl=tw&adbpr=66780587 https://t.co/
+215001065:*:@david_obrien @NICconf How you finding the AWS PoSh cmdlets? Found them to be a bit tricky / different.
+216006994:*:Apply first - Cloud Application Architect in Charlotte NC http://www.bullhornreach.com/job/2200970_cloud-application-architect-charlotte-nc?utm_campaign=v1&shortlink=4489281&utm_content=76&utm_source=twitter.com&referer=None&utm_medium=referral #jobs #clous #aws
+216045808:*:Startup Operations Manager: Amazon Web Services Inc. Seattle WA 1/1/2016 ... As an Operations Manager on the... https://www.google.com/url?rct=j&sa=t&url=http://www.careerbuilder.com/jobseeker/jobs/jobdetails.aspx?job_did%3DJ3J5YP6LLFQTK8QDHFL&ct=ga&cd=CAIyGjE5NzAwYWZiNTcwMGY0YzA6Y29tOmVuOlVT&usg=AFQjCNGRBYpmST9S8U1lfsz5Bmic8-PVgg&utm_campaign=StartupGrind%20-%20(Seattle%20Startups)&utm_source=twitterfeed&utm_medium=twitter
+216036759:*:RT @swardley: Asked Has AWS won the cloud? ... for IaaS yes that was clear in 2010 ... that doesn't mean nothing can be done - https://
+217013433:*:Time will tell...Will Amazon Web Services Lose Its Position to Microsoft in 2016? - https://marketrealist.com/2015/12/will-amazon-web-services-lose-position-microsoft-2016/
+217037499:*:DevOps Engineer - AWS Chef Jenkins http://jobview.monster.com/DevOps-Engineer-AWS-Chef-Jenkins-Job-Bellevue-WA-US-161749816.aspx
+217015786:*:Linux Systems Support Engineer Rhel Centos Chef Aws Java Python Mysql Jobs in Austin TX #Austin #TX https://www.jobfindly.com/linux-systems-support-engineer-rhel-centos-chef-aws-java-python-mysql-jobs-austin-tx.html
+217042897:*:Can you recommend anyone for this #job? AWS Solution Architect - http://www.careerarc.com/job-listing/cognizant-jobs-aws-solution-architect-17359900?campaign_id=15439&src=1&utm_campaign=TW01&utm_medium=TW&utm_source=JC #Atlanta GA #IT #Hiring
+216045692:*:https://www.youtube.com/watch?v=nL2KyKgYqFY BarkingMad  Dogtown South Africa  AWS PE Bull Terrier http://barkingmad.co.za/pets/aws-pe-bull-terrier-2/ pesoutha http://twitter.com/bullyslife/status/682905057273208832
+214512589:*:I'm hiring: Openings_Cloud Delivery Manager - AWS Azure in Mountain View CA in Mountain View CA http://bull.hn/l/2N8JL/54 #job
+216000939:*:  Insane! Senior Operations Engineer at @voguemagazine https://unicornhunt.io/jobs/senior-operations-engineer-at-cn-commerce-style-com?utm_content=bufferdb34b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer #aws #ubuntu
+217032715:*:Job: Cloud Delivery Manager - AWS in Seattle WA - 8769. Are you a fit? in Seattle WA http://bull.hn/l/2M9DK/33 #job
+214505234:*:AWS DevOps Engineer - Cognizant: (#Nashville TN) http://www.careerarc.com/job-listing/cognizant-jobs-aws-devops-engineer-16977032?campaign_id=15439&src=1&utm_campaign=TW01&utm_medium=TW&utm_source=JC #IT #Job #Jobs #Hiring
+216006010:*:Job Opportunity: Cloud DevOps AWS Engineers in Bellevue WA - 8796. Are you a fit? in Bellevue WA http://www.bullhornreach.com/job/2171350_cloud-devops-aws-engineers-in-bellevue-wa-8796-bellevue-wa?utm_campaign=v1&shortlink=4434093&utm_content=59&utm_source=twitter.com&referer=None&utm_medium=referral #job
+214523028:*:procura Chief Architect - Java - $60/hr em  Brazil #emprego #developer #aws http://www.emprego.io/emprego/3054/chief-architect-java-60hr
+216018336:*:procura AWS DevOps Automation Specialist - $60K em  Brazil #emprego #developer #javascript http://www.emprego.io/emprego/3059/aws-devops-automation-specialist-60k
+216009670:*:RT @linuxacademyCOM: AWS CSA Association and Professional available with labs study guides and practice exams first month $9! https://t.c
+216027541:*:RT @nodenow: Looking for a #DevOps in Oxford - 40k Apply at http://haybrook.co.uk/rc1025 #AWS #Linux #PHP #JavaScript
+217067552:*:RT @linuxacademyCOM: The largest training library with practice exams exercises  self-paced labs AWS Linux OpenStack and more! https:/
+217043491:*:First New Year's Resolution: got started with AWS. Let's do this!  #developer
+216035695:*:RT @docker: Deploy Docker on AWS via Marketplace https://cards.twitter.com/cards/18ce53v0cly/15qy5
+215052997:*:jellevdvliet do you develop? First New Year's Resolution: got started with AWS. Let's do this!  #developer http://twitter.com/jellevdvliet/status/682911048169615360
+217064909:*:We are hiring: System Engineer - MS Exchange http://www.reqcloud.com/jobs/719873/?k=lCsN2WCUkBWcnUUYwbHl5UtwPx0UupwQRQW%20uArB88M&utm_source=twitter&utm_campaign=reqCloud_JobPost #job @awscloud #msexchange #automation #powershell #fleet #deskto
+216012579:*:More companies should learn to write documentation like Amazon Web Services.
+217039130:*:#Miamisburg OH #IT #Job: AWS Engineer at Cognizant http://www.careerarc.com/job-listing/cognizant-jobs-aws-engineer-17218064?campaign_id=15439&src=1&utm_campaign=TW01&utm_medium=TW&utm_source=JC #Jobs #Hiring
+217007348:*:Why does S3 take over 10 minutes to copy 6 MB of data from one directory to another in the same bucket? @awscloud
+217063763:*:Sr Aws Security Infrastructure Consultant Nyc Jobs in New York NY #NewYork #NY #jobs #jobsearch https://www.jobfindly.com/sr-aws-security-infrastructure-consultant-nyc-jobs-new-york-ny.html
+217038352:*:New AWS Public Data Set  3000 RiceGenome http://insidebigdata.com/2016/01/01/new-aws-public-data-set-3000-rice-genome/ http://twitter.com/insideBigData/status/682924399150759936/photo/1
+214509964:*:New AWS Public Data Set  3000 Rice Genome: You can now access the genome sequence data of 3024 rice varietie... http://insidebigdata.com/2016/01/01/new-aws-public-data-set-3000-rice-genome/
+216050475:*:Welcome to the AWS Developer Blog for Python https://aws.amazon.com/blogs/developer/category/python/?sc_channel=sm&sc_campaign=devblogpython_2015&sc_content=dev_blog_python&sc_country=global&sc_geo=global&sc_category=awsdeveloperblogforpython&publisher=fb_ln&adbsc=social_blogs_20151229_56800786&adbid=UPDATE-c2382910-6087655968257171456&adbpl=li&adbpr=2382910
+217011174:*:Welcome to the AWS Developer Blog for Python https://aws.amazon.com/blogs/developer/category/python/?sc_channel=sm&sc_campaign=devblogpython_2015&sc_content=dev_blog_python&sc_country=global&sc_geo=global&sc_category=awsdeveloperblogforpython&publisher=fb_ln&adbsc=social_blogs_20151229_56800786&adbid=UPDATE-c2382910-6087655968257171456&adbpl=li&adbpr=2382910
+217027499:*:#bigdata #tech - New AWS Public Data Set  3000 Rice Genome http://insidebigdata.com/2016/01/01/new-aws-public-data-set-3000-rice-genome/
+215081036:*:IT news: Welcome to the AWS Developer Blog for Python https://aws.amazon.com/blogs/developer/category/python/?sc_channel=sm&sc_campaign=devblogpython_2015&sc_content=dev_blog_python&sc_country=global&sc_geo=global&sc_category=awsdeveloperblogforpython&publisher=fb_ln&adbsc=social_blogs_20151229_56800786&adbi
+212500781:*:Now hiring for: Openings_ Cloud Architect - AWS in Mountain View CA in Mountain View CA http://www.bullhornreach.com/job/2177590_openings_-cloud-architect-aws-in-mountain-view-ca-mountain-view-ca?utm_campaign=v1&shortlink=4443592&utm_content=31&utm_source=twitter.com&referer=None&utm_medium=referral #job
+217050731:*:RT @paf31: PureScript now runs in the browser on Node natively (C++11 backend) on iOS and Android (React Native) and on AWS Lambda! Did
+217004297:*:New graphic auto-darkening high impact helmet provide #weldingtips #weldingsociety #AWS #migwelding #stickwelding  http://prwire.com.au/pr/54950/new-graphic-auto-darkening-high-impact-helmet-provides-ultimate-protection-for-welding-and-grinding
+216007658:*:RT @BigDataBlogs: New AWS Public Data Set  3000 Rice Genome http://insidebigdata.com/2016/01/01/new-aws-public-data-set-3000-rice-genome/ via @BigDataBlogs #Opines on #BigData
+216006042:*:AWS #CloudFront does gzip compression now. *Cuts several dozen lines of code from deploy script* https://aws.amazon.com/blogs/aws/new-gzip-compression-support-for-amazon-cloudfront/
+217079609:*:We're #hiring! Read about our latest #job opening here: AWS Engineer - http://www.careerarc.com/job-listing/cognizant-jobs-aws-engineer-17218063?campaign_id=15439&src=1&utm_campaign=TW01&utm_medium=TW&utm_source=JC #Miamisburg OH #IT
+215042364:*:Create a D3js visualization with a large data set on AWS S3 #data https://www.aerobatic.com/blog/d3-visualization-with-data-in-aws-s3?utm_content=buffer16384&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+216067465:*:RT @ozgurakan: Scaling on AWS (Part 3): &gt;500K Users  #AWS Startup Collection https://medium.com/aws-activate-startup-blog/scaling-on-aws-part-3-500k-users-3750b227b761?utm_content=buffer6b19c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#.7yf9651g6
+217059071:*:#python aws-cli-menu 0.4.13: Menu system for Managing AWS Accounts https://pypi.python.org/pypi/aws-cli-menu/0.4.13?utm_source=dlvr.it&utm_medium=https://pypi.python.org/pypi?%253Aaction%3Drss
+217028569:*:RT @awscloud: How-to: build a serverless dynamic DNS system w/ a small script and several AWS services https://medium.com/aws-activate-startup-blog/building-a-serverless-dynamic-dns-system-with-aws-a32256f0a1d8?adbsc=startups_20151230_56830956&adbid=682256867200925696&adbpl=tw&adbpr=66780587 https://t.co
+214507442:*:Thailand Floods Taught AWS HardwareTeam about Supply Chain Management #DataCenter #DataCenter #AtFtService #HVAC http://www.datacenterknowledge.com/archives/2015/10/08/thailand-floods-taught-aws-hardware-team-supply-chain-management/?utm_content=buffer1d043&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+216017947:*:RT AtFt_Services Thailand Floods Taught AWS HardwareTeam about Supply Chain Management #DataCenter #DataCenter #At http://www.datacenterknowledge.com/archives/2015/10/08/thailand-floods-taught-aws-hardware-team-supply-chain-management/?utm_content=buffer1d043&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+217007423:*:RT @PythonHub: Welcome to the AWS Developer Blog for Python https://aws.amazon.com/blogs/developer/category/python/?sc_channel=sm&sc_campaign=devblogpython_2015&sc_content=dev_blog_python&sc_country=global&sc_geo=global&sc_category=awsdeveloperblogforpython&publisher=fb_ln&adbsc=social_blogs_20151229_56800786&adbid=UPDATE-c2382910-6087655968257171456&adbpl=li&adbpr=2382910
+217014607:*:AWS Cloud Adminstrator/Engineer - Warrenton VA - General Dynamics #jobs https://jobs.washingtonpost.com/job/36395567/aws-cloud-adminstrator-engineer/?TrackID=29
+216005552:*:#Software #Development Engineer AWS Commerce Platform needed in #Seattle at Amazon. Apply now! #jobs http://neuvoo.com/job.php?id=mur74n3sn3&source=twitter&lang=en&client_id=129&l=Seattle%20Washington%20US&k=Software%20Development%20Engineer%20AWS%20Commerce%20Platform
+215019878:*:Librato Adds Monitoring For AWS Lambda Metrics https://www.google.com/url?rct=j&sa=t&url=https://dzone.com/articles/announcing-support-for-aws-lambda-metrics-librato&ct=ga&cd=CAIyGjU2NjIyZTJjZGU4YmVjNWM6Y29tOmVuOlVT&usg=AFQjCNH2QaYvnpTRplsd4ykohWAHvsHz9w&utm_content=buffer753e6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer #cloud #cloudgenera #in
+216059098:*:#Sr #Software Developer for Amazon Web Services - kendallsquare@amazon.com http://neuvoo.com/job.php?id=pzb9afqreh&source=twitter&lang=en&client_id=1620&l=Cambridge%20Massachusetts%20US&k=Sr%20Software%20Developer%20for%20Amazon%20Web%20Services%20-%20kendallsquare@amazon.com
+215032276:*:Signed up 4 @linuxacademyCOM  awesome platform fully exited 2 learn #DevOPS &amp; #AWS  a bit optmistic but  seems worth money.. #HNY2016
+216009680:*:Cloud Support Engineer Amazon Web Services Jobs in Dallas TX #Dallas #TX #jobs #jobsearch https://www.jobfindly.com/cloud-support-engineer-amazon-web-services-jobs-dallas-tx.html
+217011628:*:RT @SkyEagle888: I have just completed a course on https://cloudacademy.com/! #AWS #Cloud @CloudRank https://cloudacademy.com/amazon-web-services/aws-solutions-architect-associate-level-certification-course-part-3-of-3-course/567ff7f1668ad123f8f00cf7/
+217079284:*:RT @dataquestio: Create a D3js visualization with a large data set on AWS S3 #data https://www.aerobatic.com/blog/d3-visualization-with-data-in-aws-s3?utm_content=buffer16384&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+217069353:*:AWS Cloud System Administrator - Amsterdam Noord Holland https://itsourgoal2015.catsone.nl/careers/index.php?m=portal&a=details&jobOrderID=179069
+217027128:*:We are hiring: Technical Lead - AWS Continuous Delivery Services Technical  http://www.reqcloud.com/jobs/723261/?k=8Qc7H5ITTPo0oC8jQIZiLLPNKcN69cEJ0TsDsj1YUXE&utm_source=twitter&utm_campaign=reqCloud_JobPost #job @awscloud #continuousdelivery
+217036408:*:#Hadoop up and running w/ #Ubuntu #Docker &amp; #AWS #EMR http://tech.marksblogg.com/hadoop-up-and-running.html http://twitter.com/marklit82/status/682944516756746240/photo/1
+216010383:*:RT CloudRank: RT SkyEagle888: I have just completed a course on https://cloudacademy.com/! #AWS #Cloud CloudRank https://cloudacademy.com/amazon-web-services/aws-solutions-architect-associate-level-certification-course-part-3-of-3-course/567ff7f1668ad123f8f00cf7/
+216023315:*:Running Hadoop jobs on AWS Elastic Map Reduce with Python and mrjob https://www.reddit.com/r/Python/comments/3z0v9j/running_hadoop_jobs_on_aws_elastic_map_reduce/ #Python submitted by marklit[link] [comment]
+216027884:*:.@Pinboards comments about AWS bloat makes me long for the original 90s vision of CDNs where you did page rendering at the edge
+217057683:*:RT @awscloud: Create up to 500 security groups with the increased Amazon VPC limits. Learn more: http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_SecurityGroups.html?adbsc=docs_20151230_56653186&adbid=682339641224069120&adbpl=tw&adbpr=66780587 https://t.co/ij7DP
+216013665:*:New AWS Public Data Set  3000 Rice Genome: You can now access the genome sequence data of 3024 rice varietie... http://insidebigdata.com/2016/01/01/new-aws-public-data-set-3000-rice-genome/
+217001238:*:Check out this #job: #AWS #Developer at Pro-Active Human Resources (Australia) in #(UnspecifiedCity) #jobs http://au.neuvoo.com/job.php?id=rwsp5tw9dt&source=twitter&lang=en&client_id=994&l=(Unspecified%20City)%20New%20South%20Wales%20AU&k=AWS%20Developer
+214505319:*:Softlayer is faster than a speeding bullet  VoltDB report! Nearly 3X Faster than AWS! http://socialbusinesssandy.com/2015/11/18/softlayer-is-faster-than-a-speeding-bullet-voltdb-report-nearly-3x-faster-than-aws/ http://twitter.com/armbern/status/682951086303358976/photo/1
+217079267:*:DBVu Weekly Catch-Up is out! http://paper.li/dbvu/1368114265?edition_id=df284db0-b09e-11e5-8b9d-0cc47a0d1609 Stories via @planetmysql @OliBarrett @awscloud
+217021970:*:RT @paf31: PureScript now runs in the browser on Node natively (C++11 backend) on iOS and Android (React Native) and on AWS Lambda! Did
+205505307:*:publish-aws-lambda: Publish a Python module as a set of AWS lambda functions #python #aws - https://github.com/ophirh/publish-aws-lambda
+217010318:*:RT @cultofmac: Become a cloud computing master with the Amazon Web Services Certification Bundle $19: https://deals.cultofmac.com/sales/aws-engineer-certification-bundle?utm_source=cultofmac&utm_medium=social-twitter&utm_campaign=aws-engineer-certification-bundle_1116 https://t.co
+217024132:*:RT @cultofmac: Become a cloud computing master with the Amazon Web Services Certification Bundle $19: https://deals.cultofmac.com/sales/aws-engineer-certification-bundle?utm_source=cultofmac&utm_medium=social-twitter&utm_campaign=aws-engineer-certification-bundle_1116 https://t.co
+214507283:*:Pass the Amazon Web Services Certification Exams with This $19 Bundle http://www.sitepoint.com/pass-the-amazon-web-services-certification-exams-with-this-19-bundle/?utm_content=bufferd2011&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+217014556:*:@hunterwalk google cloud will start to eat into the AWS monopoly.
+215013437:*:Simplification is the #Technology Trend for 2016 - @Werner on @LinkedIn. Read more:  https://www.linkedin.com/pulse/simplification-technology-trend-2016-werner-vogels?utm_content=23479011&utm_medium=social&utm_source=twitter #AWS http://twitter.com/cloudhealthtech/status/682957707712819200/photo/1
+215008975:*:RT @Just_inTech: We are hiring: Technical Lead - AWS Continuous Delivery Services Technical  http://www.reqcloud.com/jobs/723261/?k=8Qc7H5ITTPo0oC8jQIZiLLPNKcN69cEJ0TsDsj1YUXE&utm_source=twitter&utm_campaign=reqCloud_JobPost #job @awscloud #contin
+217063656:*:We are hiring: System Engineer - Amazon Work http://www.reqcloud.com/jobs/719911/?k=xlY%20YbZBhUhLS%20j2FX%20kVGpSRHMrS0e2bu8A7wcA1xE&utm_source=twitter&utm_campaign=reqCloud_JobPost #job @awscloud #aws #windowserver #powershell #activedirectory #s
+216010839:*:RT @sitepointdotcom: Pass the Amazon Web Services Certification Exams with This $19 Bundle http://www.sitepoint.com/pass-the-amazon-web-services-certification-exams-with-this-19-bundle/?utm_content=bufferd2011&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+215007249:*:#awswishlist RDS instances that I can stop and start (for example Dev/Test instances powered off overnight) @awscloud
+216003502:*:New AWS Public #Data Set  3000 Rice Genome http://insidebigdata.com/2016/01/01/new-aws-public-data-set-3000-rice-genome/ via @insideBigData
+217031609:*:New #job opening at Amazon in #Dublin - #Senior #Software Development Engineer AWS Networking #jobs http://ie.neuvoo.com/job.php?id=u85dbsguy4&source=twitter&lang=en&client_id=1199&l=Dublin%20Dublin%20IE&k=Senior%20Software%20Development%20Engineer%20AWS%20Networking
+212535868:*:RT AtFtCLT Thailand Floods Taught AWS HardwareTeam about Supply Chain Management #DataCenter #DataCenter #AtFtServ http://www.datacenterknowledge.com/archives/2015/10/08/thailand-floods-taught-aws-hardware-team-supply-chain-management/?utm_content=bufferef0f2&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+217029636:*:#Linux #System Administrator with AWS http://neuvoo.co.in/job.php?id=n33zr6k85f&source=twitter&lang=en&client_id=2333&l=Vadodara%20Gujarat%20IN&k=Linux%20System%20Administrator%20with%20AWS http://twitter.com/NeuvooAdmVadod/status/682962890190680064/photo/1
+217022172:*:"From our webinar archive: Achieving Continuous Delivery with AWS Lambda and Codeshiphttp://resources.codeship.com/webinars/thank-you-video-achieving-continuous-delivery-with-aws-lambda-and-codeship?utm_source=twitter&utm_medium=tweet&utm_campaign=edgar_resources_webinars_CD-lambda-codeship http://twitter.com/codeship/status/682964532608778240/photo/1"
+216052105:*:"RT @smuddu: How much can Diane impact in @google cloud business against AWS &amp;Azure?http://finance.yahoo.com/news/google-director-adds-missing-skills-050100221.html @awscloud @Azure @IBM @Oracle @"
+217001412:*:Welcome to the AWS Developer Blog for Python https://aws.amazon.com/blogs/developer/category/python/?sc_channel=sm&sc_campaign=devblogpython_2015&sc_content=dev_blog_python&sc_country=global&sc_geo=global&sc_category=awsdeveloperblogforpython&publisher=fb_ln&adbsc=social_blogs_20151229_56800786&adbid=UPDATE-c2382910-6087655968257171456&adbpl=li&adbpr=2382910 #techculture
+216074476:*:AWS console and CLI are hilariously broken it is kindof amazing.
+217025747:*:"RT @CeOJoffrey: http://TechKebab.com Powered by #WordPress #AWS #cloudflare #Linux #amwriting #tech #writing #cloudcomputing #cloud #w"
+215034202:*:RT @BigReporter: New Free Netflix Streaming #Wordpress Theme Power By AWS Amazon Web Services https://s3bubble.com/wp_themes/streamium-netflix-style-wordpress-theme?utm_content=buffer8d28c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer #money https://t.co/m
+217050448:*:Linux Academy | Linux and AWS Online Training https://t.co/zcCx95xi7X
+217017665:*:"Retweeted World News (@BigReporter):New Free Netflix Streaming #Wordpress Theme Power By AWS Amazon Web... http://twitter.com/BigReporter/status/682967291009589248/photo/1?utm_source=fb&utm_medium=fb&utm_campaign=BeyondnewsOrg&utm_content=682967434387664896"
+216070428:*:"RT @smuddu: How much can Diane impact in @google cloud business against AWS &amp;Azure?http://finance.yahoo.com/news/google-director-adds-missing-skills-050100221.html @awscloud @Azure @IBM @Oracle @"
+216007786:*:RT @marklit82: #Hadoop up and running w/ #Ubuntu #Docker &amp; #AWS #EMR http://tech.marksblogg.com/hadoop-up-and-running.html http://twitter.com/marklit82/status/682944516756746240/photo/1
+216037003:*:RT @linuxacademyCOM: AWS CSA Associate and Professional training available with labs study guides and quizzes! First month just $9! https
+216048203:*:"RT @smuddu: How much can Diane impact in @google cloud business against AWS &amp;Azure?http://finance.yahoo.com/news/google-director-adds-missing-skills-050100221.html @awscloud @Azure @IBM @Oracle @"
+216036946:*:#Windows #System Administrator- AWS http://neuvoo.co.in/job.php?id=ac356yh6hg&source=twitter&lang=en&client_id=2333&l=Vadodara%20Gujarat%20IN&k=Windows%20System%20Administrator-%20AWS
+216061359:*:I'm not sure how you are supposed to use Java on AWS Lambda when you literally can't get a JAR up there.
+216006870:*:Amazon is hiring a #Sr. #International Tax Manager - AWS apply now! #Seattle #jobs http://neuvoo.com/job.php?id=dsvkrujig3&source=twitter&lang=en&client_id=658&l=Seattle%20Washington%20US&k=Sr.%20International%20Tax%20Manager%20-%20AWS http://twitter.com/NeuvooAccSea/status/682970688999833600/photo/1
+217058472:*:#AWS #Software Development Engineer - Database systems needed in #PaloAlto at Amazon. Apply now! #jobs http://neuvoo.com/job.php?id=typ0gjpcbj&source=twitter&lang=en&client_id=1294&l=Palo%20Alto%20California%20US&k=AWS%20Software%20Development%20Engineer%20-%20Database%20systems
+217021678:*:RT @palerrainc: Would you know if your AWS account was breached? Get the guide to enhance AWS security.  https://cards.twitter.com/cards/18ce53xjgrf/12bk7
+216036478:*:Just configured @tutumcloud to spin up a @awscloud EC2 instance. Cool stuff...
+215018500:*:RT @Zementis: Start 2016 with easy deployment of predictive analytics in any business application #AWS #cloud #datascience https://t.co/guv
+216070098:*:RT @swardley: Asked Has AWS won the cloud? ... for IaaS yes that was clear in 2010 ... that doesn't mean nothing can be done - https://
+214514911:*:RT @CloudSploit: Make a #NewYear's resolution to improve your #AWS account #security. Setup recurring scans at https://cloudsploit.com/ #dev
+216029800:*:RT @Zementis: Start 2016 with easy deployment of predictive analytics in any business application #AWS #cloud #datascience https://t.co/guv
+215063037:*:#Amazon #S3 Performance Software Development Engineer S3 Throughput (Amazon Web Services) http://neuvoo.com/job.php?id=bqcqz27xcv&source=twitter&lang=en&client_id=1625&l=Seattle%20Washington%20US&k=Amazon%20S3%20Performance%20Software%20Development%20Engineer%20S3%20Throughput%20(Amazon%20Web%20Services)
+213538309:*:RT @insideHPC: New AWS Public Data Set  3000 Rice Genome http://insidebigdata.com/2016/01/01/new-aws-public-data-set-3000-rice-genome/ http://twitter.com/insideHPC/status/682977290037276673/photo/1
+214505918:*:aws-cli-menu: Menu system for Managing AWS Accounts #aws #tool - https://pypi.python.org/pypi/aws-cli-menu/
+215001065:*:Esperimenti di inizio anno... How to set up a new user on your Amazon AWS server - http://www.brianlinkletter.com/how-to-set-up-a-new-userid-on-your-amazon-aws-server-instance/
+216006994:*:5 AWS mistakes you should avoid https://cloudonaut.io/5-aws-mistakes-you-should-avoid/
+216045808:*:RT @linuxacademyCOM: AWS CSA Association and Professional available with labs study guides and practice exams first month $9! https://t.c
+216036759:*:RT @abhishektiwari: Building a Serverless Dynamic DNS System with AWS https://medium.com/aws-activate-startup-blog/building-a-serverless-dynamic-dns-system-with-aws-a32256f0a1d8?adbsc=startups_20151230_56831006&adbid=UPDATE-c2382910-6088022609813913600&adbpl=li&adbpr=2382910#.leuerozhm
+217013433:*:@anantshri haha that's sad. A provider like @linode should have DDoS protection in place ! move to @awscloud is what I would suggest.
+217037499:*:@anindyar yup that seems like the option for me now @linode @awscloud
+217015786:*:We are hiring: Amazon Web Services Technical Trainer - MUST BE FL http://www.reqcloud.com/jobs/653997/?k=qGIjGmbHkepzXqTw0f/S7EeYnTpUxo9jFx/RFiuUBS4LIKvNm3dQTF/BtTL7a/ANJNG8qkqs/CkfrZ0aWIJ2XQ&utm_source=twitter&utm_campaign=reqCloud_JobPost #job @awscloud #technicaltrainer #ITtraining
+217042897:*:#Cloud #Software Engineer - Amazon Web Services S3 EC2 SQS Java http://neuvoo.com/job.php?id=m4db03fntz&source=twitter&lang=en&client_id=1071&l=Aliso%20Viejo%20California%20US&k=Cloud%20Software%20Engineer%20-%20Amazon%20Web%20Services%20S3%20EC2%20SQS%20Java
+216045692:*:Freshly baked -&gt; Microservices Weekly #12! Content from @InfoQ @awscloud @philipsu @jezhumble and @BenLinders http://us9.campaign-archive2.com/?u=3402bc2f02ffba01e245dc556&id=a2aebb91d2&utm_content=buffer692fe&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+214512589:*:RT @awscloud: How-to: build a serverless dynamic DNS system w/ a small script and several AWS services https://medium.com/aws-activate-startup-blog/building-a-serverless-dynamic-dns-system-with-aws-a32256f0a1d8?adbsc=startups_20151230_56830956&adbid=682256867200925696&adbpl=tw&adbpr=66780587 https://t.co
+216000939:*:#NewYorkCity NY #IT #Job: AWS Architect at Cognizant http://www.careerarc.com/job-listing/cognizant-jobs-aws-architect-16977040?campaign_id=134&src=1&utm_campaign=TW01&utm_medium=TW&utm_source=JC #Jobs #Hiring #CareerArc
+217032715:*:RT @danielbryantuk: Freshly baked -&gt; Microservices Weekly #12! Content from @InfoQ @awscloud @philipsu @jezhumble and @BenLinders https:
+214505234:*:Does anyone host a blog on @awscloud using e.g. t2.nano instance?
+216006010:*:RT @danielbryantuk: Freshly baked -&gt; Microservices Weekly #12! Content from @InfoQ @awscloud @philipsu @jezhumble and @BenLinders https:
+214523028:*:Why your team should have a full-time Reserved Instance expert: http://blog.cloudability.com/why-your-org-needs-a-reserved-instances-czar/?utm_source=twitter&utm_medium=social&utm_campaign=Blog:%20Why%20your%20org%20needs%20a%20Reserved%20Instances%20czar #AWS http://twitter.com/cloudability/status/682988443459268608/photo/1
+216018336:*:The Tremendous Scale of AWS and the Hidden Benefit of the Cloud https://bearmetal.eu/theden/the-tremendous-scale-of-aws-and-the-hidden-benefit-of-the-cloud/
+216009670:*:We are hiring: Networking Cloud Support Engineer Networking Cloud Support Engineer http://www.reqcloud.com/jobs/709549/?k=GGBvsvLMqMyPbpU7ATwNxM0bnru3ZEEtUlnPRuGGTI4&utm_source=twitter&utm_campaign=reqCloud_JobPost #job @Amazon #aws #job
+216027541:*:Join the team! Dev Ops Manager - AWS S3 Webserver Systems D http://www.reqcloud.com/jobs/691253/?k=L6W65r%20Kiy84hB5Yt1DMQCoZ8t7MaogCOjWgkqLJOg0&utm_source=twitter&utm_campaign=reqCloud_JobPost #job @awscloud #devops #linux #python #s3 #manager
+217067552:*:RT @augustcool: Amazon Web Services exec: Weve got a 3- to 4-year technical lead on rivals http://www.geekwire.com/2015/amazon-web-services-exec-weve-got-a-three-to-four-year-technical-lead-on-rivals/ via @GeekWire
+217043491:*:AWS makes it frighteningly easy to spend more money. And frighteningly difficult to understand how/why your bill has increased. Brilliant.
+216035695:*:Amazon is hiring! #Named #Account Manager AWS (Chicago) in #Chicago apply now! #jobs http://neuvoo.com/job.php?id=cpzuf7inr5&source=twitter&lang=en&client_id=375&l=Chicago%20Illinois%20US&k=Named%20Account%20Manager%20AWS%20(Chicago) http://twitter.com/NeuvooSalChi/status/682992889555742721/photo/1
+215052997:*:AWS draws on startup appeal to win over the enterprise http://www.computerweekly.com/news/4500257790/AWS-draws-on-startup-appeal-to-win-over-the-enterprise via @instapaper
+217064909:*:@BioMickWatson t2.micro on @awscloud comes out around 8 bucks a month (w/ 1yr reservation). Some scratch notes here: https://gist.github.com/sahilseth/01d5e88e431334fcd527
+216012579:*:RT @sethsa: @BioMickWatson t2.micro on @awscloud comes out around 8 bucks a month (w/ 1yr reservation). Some scratch notes here: https://t.
+217039130:*:Syntel Lowers TCO by Using AWS http://www.reqcloud.com/content/211653/?k=I8RWEe1Lw9MRIIkaiKp9ql8hjuit1kekHWYz45VWxB89EVD1BVIkBE9QWFRNZVvpbEhpUybAsmrmnA0rRyrdaA&utm_source=twitter&utm_campaign=reqCloud_ContentPost @AmazonWebServices
+217007348:*:New @awscloud  public #DataSets &amp; rise of a #Data singularity; #BigData #Analytics #DataScience #BI #EIM http://www.fiercebigdata.com/story/new-aws-public-data-sets-and-rise-data-singularity/2015-11-23?utm_content=bufferf6bb9&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+217063763:*:#Cloud #Architect (aws) http://neuvoo.co.in/job.php?id=geh0aju0qh&source=twitter&lang=en&client_id=2141&l=Noida%20Uttar%20Pradesh%20IN&k=Cloud%20Architect%20(aws) http://twitter.com/NeuvooNoida/status/683003887968763909/photo/1
+217038352:*:Amazon AWS Route 53 GEO DNS Configurations http://www.cyberciti.biz/cloud-computing/aws/route-53-geodns-tutorial/
+214509964:*:RT @PythonHub: Running Hadoop jobs on AWS Elastic Map Reduce with Python and mrjob https://www.reddit.com/r/Python/comments/3z0v9j/running_hadoop_jobs_on_aws_elastic_map_reduce/
+216050475:*:RT @linuxacademyCOM: AWS training library available with all three associate certifications and AWS CSA Professional starting at just $9! h
+217011174:*:@benkepes Infor is kicking ass. Any account that goes all in on AWS and still uses JDE or Oracle ERP will eventually go Infor.
+217027499:*:RT @daveshac: 2015 wasn't about AWS. It was about everybody getting ready to try to beat AWS http://www.theregister.co.uk/2015/12/28/2015_year_review_enterprsie_cloud/ via @theregister @gav
+215081036:*:Training batch on AWS Jan 6th 2016 9PM EST. First session is absolutely free. Contact training@novusinfo.com or  (+1) 727-537-9559 .
+212500781:*:Attn all #AWS Users - Try #HPEHelion #Eucalyptus today for Hybrid Computing http://on.hp.com/LP_461895_Cloud_WW_EN-US_EucalyptusFastStartGate?jumpid=ba_ju9maivqk1
+217050731:*:RT @HPE_Cloud: Attn all #AWS Users - Try #HPEHelion #Eucalyptus today for Hybrid Computing http://on.hp.com/LP_461895_Cloud_WW_EN-US_EucalyptusFastStartGate?jumpid=ba_ju9maivqk1
+217004297:*:We are hiring: Mobile Developer Mobile Developer http://www.reqcloud.com/jobs/719859/?k=oS6M%20LaNKzTDZpGKJgDTj9D4j0Qkm07Fmm/oqRw03ao&utm_source=twitter&utm_campaign=reqCloud_JobPost #job @awscloud #job #aws #mobiledev #application #ios #andoid
+216007658:*:We are hiring: Software Engineer - AWS Continuous Delivery Services So http://www.reqcloud.com/jobs/723263/?k=/ZIxiv5QAU1uMRydl2zpT4ow9k/BbDFyKjVqfK/23ik&utm_source=twitter&utm_campaign=reqCloud_JobPost #job @awscloud #aws #continuousdelivery
+216006042:*:5 #AWS mistakes you should avoid https://cloudonaut.io/5-aws-mistakes-you-should-avoid/
+217079609:*:Sr Devops Engineer Aws Jobs in Los Angeles CA #LosAngeles #CA #jobs #jobsearch https://www.jobfindly.com/sr-devops-engineer-aws-jobs-los-angeles-ca.html
+215042364:*:RT @cloudhealthtech: Simplification is the #Technology Trend for 2016 - @Werner on @LinkedIn. Read more:  https://www.linkedin.com/pulse/simplification-technology-trend-2016-werner-vogels?utm_content=23479011&utm_medium=social&utm_source=twitter #AWS ht
+216067465:*:@fideloper @taylorotwell @ianlandsman I still maintain that ElasticBeanstalk is a much underrated AWS service. simple straightforward
+217059071:*:#System #Administrator - Windows + AWS http://neuvoo.co.in/job.php?id=q3j3wdhh0m&source=twitter&lang=en&client_id=2333&l=Vadodara%20Gujarat%20IN&k=System%20Administrator%20-%20Windows%20%2B%20AWS http://twitter.com/NeuvooAdmVadod/status/683011790016516096/photo/1
+217028569:*:@thewellter @h2oai we run on aws azure and google cloud. Our Python module &amp; R pkg allows for easy integration into AzureML. DM  for help!
+214507442:*:RT @ianlandsman: @taylorotwell @fideloper every host goes down. No escaping it. Aws at least hardest to ddos and hey the entire internet go
+216017947:*:@ObeyMaxs @Obey_Aeolus Aws campaign was the best campaign since MW3s campaign tbh
+217007423:*:SAP HANA + SUSE Linux Enterprise on AWS by @nerdometer on @LinkedIn https://www.linkedin.com/pulse/sap-hana-suse-linux-enterprise-aws-subhasish-ghosh @SAPInMemory @awscloud
+217014607:*:Find out why SAP HANA on SUSE Linux Enterprise Server on Amazon Web Services (AWS) is becoming the de-facto Cloud plhttps://www.linkedin.com/pulse/sap-hana-suse-linux-enterprise-aws-subhasish-ghosh
+216005552:*:#AWS Certified Developer - Associate 2015 |Just $10|#Udemy #Bestseller #Coupon https://www.udemy.com/aws-certified-developer-associate-2015/?siteID=DAI0zMBmpjc-ZvUKDdJtPcE1gYiVAGvolA&LSNPUBID=DAI0zMBmpjc
+215019878:*:"#Tutorial: Learn how to run a MEAN web application in #Docker containers on #AWS:http://blog.codeship.com/running-mean-web-application-docker-containers-aws/ http://twitter.com/codeship/status/683017740207190017/photo/1"
+216059098:*:SAP HANA + SUSE Linux Enterprise on AWS by @nerdometer on @LinkedIn https://www.linkedin.com/pulse/sap-hana-suse-linux-enterprise-aws-subhasish-ghosh
+215032276:*:Kappa: Simplifying AWS Lambda Deployments http://www.infoq.com/news/2015/01/kappa-lambda?utm_content=buffer4a369&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+216009680:*:Digital ocean or AWS for my small personal site?  Just want to move off of godaddy but I need an in between until I set up my own server.
+217011628:*:#Senior #Solutions Architect Amazon Web Services http://neuvoo.com/job.php?id=ppcxmu6md0&source=twitter&lang=en&client_id=591&l=Cambridge%20Massachusetts%20US&k=Senior%20Solutions%20Architect%20Amazon%20Web%20Services http://twitter.com/NeuvooITBos/status/683019587290554368/photo/1
+217079284:*:RT @Fernanrelenia: New AWS Public Data Set  3000 Rice Genome - insideBIGDATA - http://insidebigdata.com/2016/01/01/new-aws-public-data-set-3000-rice-genome/ RT @jose_garde
+217069353:*:Another major investment area for Amazon is its cloud services segment Amazon Web Services (or AWS). http://s.einnews.com/hQWPCoeg5s
+217027128:*:Building a serverless dynamic DNS System with #AWS https://medium.com/aws-activate-startup-blog/building-a-serverless-dynamic-dns-system-with-aws-a32256f0a1d8?source=rss----dad75eb79ad5---4&utm_content=buffer1dcfc&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+217036408:*:@taylorotwell AWS is your only real option to have any level of protection against your systems failing.
+216010383:*:Just migrated my #aws #production #mysql #rds with https://gist.github.com/oodavid/2206527 and https://gist.github.com/oodavid/2209819. Thanks https://github.com/oodavid
+216023315:*:@taylorotwell AWS is the only provider with the scale to handle this long term. Sure they have problems but they are good at this.
+216027884:*:Why do people complain that S3 doesn't have server-side clones? Ignoring its cross-region mirroring `aws s3 sync` does clones just fine ...
+217057683:*:RT @Just_inTech: We are hiring: Software Engineer - AWS Continuous Delivery Services So http://www.reqcloud.com/jobs/723263/?k=/ZIxiv5QAU1uMRydl2zpT4ow9k/BbDFyKjVqfK/23ik&utm_source=twitter&utm_campaign=reqCloud_JobPost #job @awscloud #aws #contin
+216013665:*:Four Things to Do as Soon as You Sign Up for AWS https://medium.com/@rafgarcia/four-things-to-do-as-soon-as-you-sign-up-for-aws-5c095097679f
+217001238:*:Start your new year by reducing your cloud computing expenses! Join https://spotinst.com/ #AWS #cloudcomputing http://twitter.com/spotinst/status/683025454559817729/photo/1
+214505319:*:RT @swardley: what will happen @webmink is other vendors will 1/ Encourage copyright on APIs 2/ Claim they can't adopt defacto AWS and the
+217079267:*:RT @swardley: ... 3/ Demand an Open Standard which is not AWS creating problems for end users and trying to an advantage for past vendors
+217021970:*:RT @danielbryantuk: Freshly baked -&gt; Microservices Weekly #12! Content from @InfoQ @awscloud @philipsu @jezhumble and @BenLinders https:
+205505307:*:Things to Do as Soon as You Sign Up for AWS https://medium.com/@rafgarcia/four-things-to-do-as-soon-as-you-sign-up-for-aws-5c095097679f
+217010318:*:IT news: Things to Do as Soon as You Sign Up for AWS https://medium.com/@rafgarcia/four-things-to-do-as-soon-as-you-sign-up-for-aws-5c095097679f
+217024132:*:@cdaffara @swardley @smaffulli @webmink @cloudpundit it's not a commodity because AWS are so dominant and in control of what launches + when
+214507283:*:Apply now to work for Amazon as #Senior #Software Development Engineer AWS Networking in #Dublin #jobs http://ie.neuvoo.com/job.php?id=u85dbsguy4&source=twitter&lang=en&client_id=1199&l=Dublin%20Dublin%20IE&k=Senior%20Software%20Development%20Engineer%20AWS%20Networking
+217014556:*:#System #Administrator - Windows + AWS http://neuvoo.co.in/job.php?id=q3j3wdhh0m&source=twitter&lang=en&client_id=2333&l=Vadodara%20Gujarat%20IN&k=System%20Administrator%20-%20Windows%20%2B%20AWS http://twitter.com/NeuvooAdmVadod/status/683034473311682560/photo/1
+215013437:*:@ValaAfshar I want to see one of these for aws and their ecosystem eating enterprise it.
+215008975:*:Will Microsoft Azure surpass Amazon AWS for cloud computing leadership in 2016? https://marketrealist.com/2015/12/will-amazon-web-services-lose-position-microsoft-2016/
+217063656:*:Be first to apply: Openings_ Cloud Architect - AWS in Mountain View CA in Mountain View CA http://www.bullhornreach.com/job/2177590_openings_-cloud-architect-aws-in-mountain-view-ca-mountain-view-ca?utm_campaign=v1&shortlink=4443592&utm_content=34&utm_source=twitter.com&referer=None&utm_medium=referral #job
+216010839:*:#Linux #System Administrator Dev Ops Puppet AWS needed in #Sydney at 2it Recruitment. Apply now! #jobs http://au.neuvoo.com/job.php?id=u4vc2xyx6d&source=twitter&lang=en&client_id=994&l=Sydney%20New%20South%20Wales%20AU&k=Linux%20System%20Administrator%20Dev%20Ops%20Puppet%20AWS
+215007249:*:#Amazon #Web Services (AWS) Architect Manager- Location Negotiable http://neuvoo.com/job.php?id=xrxiwuuctz&source=twitter&lang=en&client_id=136&l=Philadelphia%20Pennsylvania%20US&k=Amazon%20Web%20Services%20(AWS)%20Architect%20Manager-%20Location%20Negotiable
+216003502:*:#AWS year in #review https://cloudonaut.io/aws-year-in-review/ #2015 http://twitter.com/hellomichibye/status/683038486883102722/photo/1
+217031609:*:Check out this #job: #Corporate #Counsel AWS Trade Compliance at Amazon in #Seattle #jobs http://neuvoo.com/job.php?id=j25v8wwmej&source=twitter&lang=en&client_id=658&l=Seattle%20Washington%20US&k=Corporate%20Counsel%20AWS%20Trade%20Compliance http://twitter.com/NeuvooAccSea/status/683038533532168193/photo/1
+212535868:*:@uzochiapa @swardley AWS or Azure 'lock-in' similar to the benefits from choosing either UNIX or Windows in ~2000: faster innovation.
+217029636:*:#AWS year in #review https://cloudonaut.io/aws-year-in-review/ #2015 cc @Werner @jeffbarr http://twitter.com/hellomichibye/status/683038761425461249/photo/1
+217022172:*:Four Things to Do as Soon as You Sign up for #AWS - https://medium.com/@rafgarcia/four-things-to-do-as-soon-as-you-sign-up-for-aws-5c095097679f#.dfw1ycy12
+216052105:*:I summarized all new #AWS stuff in 2015 https://cloudonaut.io/aws-year-in-review/
+217001412:*:Four Things to Do as Soon as You Sign up for AWS by Rafael Garcia https://medium.com/@rafgarcia/four-things-to-do-as-soon-as-you-sign-up-for-aws-5c095097679f#.xcndfi6xm
+216074476:*:#AWS year in review: most important changes in 2015 https://cloudonaut.io/aws-year-in-review/
+217025747:*:RT @hellomichibye: #AWS year in #review https://cloudonaut.io/aws-year-in-review/ #2015 cc @Werner @jeffbarr http://twitter.com/hellomichibye/status/683038761425461249/photo/1
+215034202:*:RT @Fernanrelenia: New AWS Public Data Set  3000 Rice Genome - insideBIGDATA - http://insidebigdata.com/2016/01/01/new-aws-public-data-set-3000-rice-genome/ RT @jose_garde
+217050448:*:Top five #AWS #application development tips of 2015 http://searchaws.techtarget.com/feature/Top-five-AWS-application-development-tips-of-2015
+217017665:*:Dre_Dayz713: RT EZVIZLIFE: Running low in battery? Recharge now. #AWS #reInvent #vegas # http://twitter.com/EZVIZLIFE/status/651855379723259904/photo/1
+216070428:*:AWS year in review https://cloudonaut.io/aws-year-in-review/
+216007786:*:IT news: AWS year in review https://cloudonaut.io/aws-year-in-review/
+216037003:*:Current status: Setting up linux server on Amazon Web Services. Next week we'll be negotiating design and rules.
+216048203:*:AWS year in review https://cloudonaut.io/aws-year-in-review/
+216036946:*:After finishing #MakingAMurderer I can't help but wonder if @awscloud services would help the new petition #innovation #metrostarculture
+216061359:*:AWS year in review #technews #feedly https://cloudonaut.io/aws-year-in-review/
+216006870:*:5 #AWS Mistakes You Should Avoid https://dzone.com/articles/5-aws-mistakes-you-should-avoid
+217058472:*:Four Things to Do as Soon as You Sign up for AWS - https://medium.com/@rafgarcia/four-things-to-do-as-soon-as-you-sign-up-for-aws-5c095097679f#.nuupxo65p
+217021678:*:AWS Security Best Practice #10: S3 Bucket Policies http://blog.evident.io/blog/2015/11/2/best-practice-10-watch-world-readable-and-listable-s3-bucket-policies?utm_content=buffer03b28&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer #cloud #security #infosec
+216036478:*:Job Opportunity -  Cloud DevOps AWS Engineers in Bellevue WA - 8796 in Bellevue WA http://www.bullhornreach.com/job/2171350_cloud-devops-aws-engineers-in-bellevue-wa-8796-bellevue-wa?utm_campaign=v1&shortlink=4434093&utm_content=59&utm_source=twitter.com&referer=None&utm_medium=referral #job
+215018500:*:@KirkBater if it's temporary AWS is free for the server you likely need. The discount also applies if you want bigger.
+216070098:*:RT @evidentdotio: AWS Security Best Practice #10: S3 Bucket Policies http://blog.evident.io/blog/2015/11/2/best-practice-10-watch-world-readable-and-listable-s3-bucket-policies?utm_content=buffer03b28&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer #cloud #security #infosec
+214514911:*:RT @linuxacademyCOM: AWS training library available with all three associate certifications and AWS CSA Professional starting at just $9! h
+216029800:*:Hiring Now: Cloud Delivery Manager - AWS in Seattle WA - 8769 in Seattle WA http://www.bullhornreach.com/job/2153022_cloud-delivery-manager-aws-in-seattle-wa-8769-seattle-wa?utm_campaign=v1&shortlink=4397816&utm_content=51&utm_source=twitter.com&referer=None&utm_medium=referral #job
+215063037:*:I really wish Tom Lehrer could write a song about Amazon Web Services http://twitter.com/georgebaily/status/683059540061995008/photo/1
+213538309:*:#AWS to expand scope of mission in 2016 http://snip.ly/RCdP?utm_content=26920237&utm_medium=social&utm_source=twitter
+214505918:*:We are hiring: Software Developer for Amazon AppStream Softwa http://www.reqcloud.com/jobs/719861/?k=GXXlSSyfIy3JAWsDp8TKZSu2utODXNNL4fMcGe%20UDDE&utm_source=twitter&utm_campaign=reqCloud_JobPost #job @awscloud #appstream #amazon #job @awscloud
+215001065:*:RT @evidentdotio: AWS Security Best Practice #10: S3 Bucket Policies http://blog.evident.io/blog/2015/11/2/best-practice-10-watch-world-readable-and-listable-s3-bucket-policies?utm_content=buffer03b28&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer #cloud #security #infosec
+216006994:*:https://www.youtube.com/watch?v=nL2KyKgYqFY RT evidentdotio: AWS Security Best Practice #10: S3 Bucket Policies  http://twitter.com/MrCaTomas/status/683060618836983808
+216045808:*:RT @awscloud: Read our Q&amp;A blog with Lt Col Maria Schneider to learn about her experience at #AWS https://aws.amazon.com/blogs/publicsector/military_fellowship/?adbsc=social_20151230_56776366&adbid=682278238580682752&adbpl=tw&adbpr=66780587 https://t.co/MtSU
+216036759:*:RT @zayinarb: @mr_Stx @thermmie_ @iamslickp @ayam_api azin tz nor Aws vote
+217013433:*:#python troposphere 1.4.0: AWS CloudFormation creation library https://pypi.python.org/pypi/troposphere/1.4.0?utm_source=dlvr.it&utm_medium=https://pypi.python.org/pypi?%253Aaction%3Drss
+217037499:*:Services like AWS Lambda are super important to democratizing programming. Deployment holds too many great ideas back from their due impact.
+217015786:*:Apply now to work for Amazon as #IT #Audit Manager - Amazon Web Services - (AWS) in #Seattle #jobs http://neuvoo.com/job.php?id=hbpbr6vqhd&source=twitter&lang=en&client_id=658&l=Seattle%20Washington%20US&k=IT%20Audit%20Manager%20-%20Amazon%20Web%20Services%20-%20(AWS)
+217042897:*:AWS year in review https://cloudonaut.io/aws-year-in-review/
+216045692:*:Php Developer Lamp And Amazon Web Services Jobs in San Diego CA #SanDiego #CA #jobs #jobsearch https://www.jobfindly.com/php-developer-lamp-and-amazon-web-services-jobs-san-diego-ca.html
+214512589:*:Senior Web Developer at AWS Mobile http://jobview.monster.com/Senior-Web-Developer-at-AWS-Mobile-Job-Seattle-WA-US-161777209.aspx
+216000939:*:Senior Software Development Engineer - AWS Mobile and IoT http://jobview.monster.com/Senior-Software-Development-Engineer-AWS-Mobile-IoT-Job-Seattle-WA-US-161777206.aspx
+216009680:*:@semil AWS Lambda's launch. Going to completely change the game for infrastructure dev
+217011628:*:RT @andreaswittig: #AWS year in review: most important changes in 2015 https://cloudonaut.io/aws-year-in-review/
+217079284:*:Senior System Operations Engineer Linux AWS Puppet Batman Health Insurance Sydney NSW - http://australia.jobrat.net/2016/01/01/senior-system-operations-engineer-linux-aws-puppet-big-data-health-insurance-sydney-nsw/
+217069353:*:Things to Do as Soon as You Sign Up for AWS https://medium.com/@rafgarcia/four-things-to-do-as-soon-as-you-sign-up-for-aws-5c095097679f
+217027128:*:http://Sr.Systems Engineer - AWS Internet of Things (IoT) Team http://jobview.monster.com/Sr-Systems-Engineer-AWS-Internet-of-Things-IoT-Team-Job-Seattle-WA-US-161777237.aspx
+217036408:*:Senior Web Developer at AWS Mobile http://jobview.monster.com/Senior-Web-Developer-at-AWS-Mobile-Job-Seattle-WA-US-161777210.aspx
+216010383:*:Senior Software Development Engineer - AWS Mobile and IoT http://jobview.monster.com/Senior-Software-Development-Engineer-AWS-Mobile-IoT-Job-Seattle-WA-US-161777207.aspx
+216023315:*:#Senior Web Developer at AWS Mobile #jobs #500K #: #WA-Seattle Job Description Join the AWS Simple Notificati... http://jobsearch.money.todeed.com/?q=Senior%20Web%20Developer%20at%20AWS%20Mobile%20Jobs%20US%20&utm_source=twitterfeed&utm_medium=twitter
+216027884:*:http://Sr.Systems Engineer - AWS Internet of Things (IoT) Team http://jobview.monster.com/Sr-Systems-Engineer-AWS-Internet-of-Things-IoT-Team-Job-Seattle-WA-US-161777236.aspx
+217057683:*:#AWS That time of the month I hate #AUD / #USD exchange rate.  #Dynamo #redis #ec2 #startup #Bills arrive and we pay #amazon another head!
+216013665:*:Building a Serverless Dynamic DNS System with AWS  AWS Startup Collection https://medium.com/aws-activate-startup-blog/building-a-serverless-dynamic-dns-system-with-aws-a32256f0a1d8?adbpl=tw&adbsc=startups_20151230_56830486
+217001238:*:We are hiring: Software Development Engineer - Developer Tools Software Development Engineer -  http://www.reqcloud.com/jobs/720081/?k=pE0onE/cD5QWsimiSF8ytsAa1OkMoi3Y2ZTgp4FLntc&utm_source=twitter&utm_campaign=reqCloud_JobPost #job @awscloud
+214505319:*:HNY! Took some downtime to get AWS Solutions Architect certification. @awscloud  @ThePRman I'm all in. @MoorInsStrat @PatrickMoorhead
+217079267:*:Aws Technical Curriculum Developer Jobs in Chicago IL #Chicago #IL #jobs #jobsearch https://www.jobfindly.com/aws-technical-curriculum-developer-jobs-chicago-il.html
+217021970:*:Did your New Years Resolution include getting a new pet? We have some great animals looking for a new home. Monty... https://www.facebook.com/AWSKennebunk/posts/10153801477842716
+205505307:*:Is one of your #AWS #NewYearsResolutions increasing your #CloudSecurity? Contact us to get started today -  https://dome9.com/ | @Dome9
+217010318:*:@SwithDrawn @saviorys @linode we moved prod to AWS last night....
+217024132:*:AWS year in review https://cloudonaut.io/aws-year-in-review/
+214507283:*:We are hiring: Software Development Manager - AWS S3 Frontend Sof http://www.reqcloud.com/jobs/694883/?k=kIOY3mYT4JyHDRLZnvZ4vaV%20bcAa/VUDahcJTMgnuTY&utm_source=twitter&utm_campaign=reqCloud_JobPost #job @awscloud #manager #s3 #API #operations
+217014556:*:Shedding The Monolithic Application With #AWS Simple Queue Service (#SQS) And #Node.js (check comments!) http://www.bennadel.com/blog/2792-shedding-the-monolithic-application-with-aws-simple-queue-service-sqs-and-node-js.htm ~ @BenNadel
+215013437:*:We are hiring: Software Development Manager - AWS S3 Frontend Sof http://www.reqcloud.com/jobs/694883/?k=kIOY3mYT4JyHDRLZnvZ4vaV%20bcAa/VUDahcJTMgnuTY&utm_source=twitter&utm_campaign=reqCloud_JobPost #job awscloud #manager #s3 #API #operations
+215008975:*:RT @MarkAllen_Tech: New AWS Public Data Set  3000 Rice Genome #DataScience http://insidebigdata.com/2016/01/01/new-aws-public-data-set-3000-rice-genome/
+217063656:*:#Senior #System Operations Engineer Linux AWS Puppet Big Data Health Insurance http://au.neuvoo.com/job.php?id=3x0huj8ryc&source=twitter&lang=en&client_id=1002&l=Sydney%20New%20South%20Wales%20AU&k=Senior%20System%20Operations%20Engineer%20Linux%20AWS%20Puppet%20Big%20Data%20Health%20Insurance
+216010839:*:Building a Serverless Dynamic DNS System with AWS  AWS Startup Collection https://medium.com/aws-activate-startup-blog/building-a-serverless-dynamic-dns-system-with-aws-a32256f0a1d8?utm_content=bufferfa2cd&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+215007249:*:The Most Popular AWS Security Blog Posts in 2015 http://blogs.aws.amazon.com/security/post/Tx4QX7W51NDSLO/The-Most-Popular-AWS-Security-Blog-Posts-in-2015 via @AWSIdentity
+216003502:*:#Lead #Product Developer - Java AWS Spring http://ie.neuvoo.com/job.php?id=25ggm727rb&source=twitter&lang=en&client_id=1199&l=Dublin%20Dublin%20IE&k=Lead%20Product%20Developer%20-%20Java%20AWS%20Spring http://twitter.com/NeuvooITBlanch/status/683090585490714628/photo/1
+217031609:*:Constructing a DIY backup system from AWS S3 object versioning lifecycle management and Glacier. They've created such great primitives!
+212535868:*:@AmbassadorAwsum @kirkbushell @fideloper even article Taylor linked all of AWS wasn't down and was just degraded service
+217029636:*:Now hiring for Technical Project Manager (Java &amp; AWS) in Hyderabad India http://www.bullhornreach.com/job/2027084_technical-project-manager-java-aws-hyderabad-india?utm_campaign=v1&shortlink=4163998&utm_content=62&utm_source=twitter.com&referer=None&utm_medium=referral #job
+217022172:*:Daily Global Weather Measurements 1929-2009 (NCDC GSOD) - AWS Public Data Set from 9000+ weather stations http://aws.amazon.com/datasets/daily-global-weather-measurements-1929-2009-ncdc-gsod/
+216052105:*:Three open NASA NEX datasets available thru AWS: climate projections and satellite images of Earth (MODIS &amp; Landsat) https://aws.amazon.com/nasa/nex/
+217001412:*:#Linux #Systems Engineer/ Junior Systems Adminstrator - AWS - http://neuvoo.co.uk/job.php?id=b5ig2xt5pk&source=twitter&lang=en&client_id=510&l=(Unspecified%20City)%20England%20GB&k=Linux%20Systems%20Engineer/%20Junior%20Systems%20Adminstrator%20-%20AWS+-
+216074476:*:UK Web Jobs: Senior Devops Specialist  Linux Windows AWS Apache nginx http://www.web-job.co.uk/senior-devops-specialist-linux-windows-aws-apache-nginx/?utm_source=twitterfeed&utm_medium=twitter
+217025747:*:UK Web Jobs: Senior Devops Specialist  Linux Windows AWS Apache nginx http://www.web-job.co.uk/senior-devops-specialist-linux-windows-aws-apache-nginx/?utm_source=twitterfeed&utm_medium=twitter
+215034202:*:http://Muraldevagas.com procura Desenvolvedor Ruby On Rails em Porto Alegre #emprego #javascript #aws http://www.emprego.io/emprego/1160/desenvolvedor-ruby-on-rails
+217050448:*:Microsoft not happy that India is also considering AWS Google for public infrastructure cloud http://economictimes.indiatimes.com/tech/software/microsoft-criticises-indias-cloud-policy/articleshow/50411857.cms
+217017665:*:Breezy cold weather today morning #chennai.. Imd Aws: 22.2c. But the cool breeze makes it to more chillness #chennaiweather
+216070428:*:We are hiring: Sr. Product Manager Sr. Product Manager http://www.reqcloud.com/jobs/719863/?k=RmrhfgVOy6f7Gwp9H9xVUJ5nQtmUXqQQyHa08QS0oVg&utm_source=twitter&utm_campaign=reqCloud_JobPost #job @awscloud #workspaces #aws @awscloud #job
+216007786:*:Great #blog for all of you #AWS enthusiasts https://aws.amazon.com/blogs/aws/?nc2=h_l2_cc
+216037003:*:RT @evidentdotio: AWS Security Best Practice #10: S3 Bucket Policies http://blog.evident.io/blog/2015/11/2/best-practice-10-watch-world-readable-and-listable-s3-bucket-policies?utm_content=buffer03b28&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer #cloud #security #infosec
+216048203:*:Countdown to #ATTDevSummit looking forward to hackathon. #AWS @attdeveloper
+216036946:*:This is some cool #IoT integration with @github @awscloud and blinking lights! Nice job @adafruit https://www.youtube.com/watch?v=TnjIXlnaN00&feature=youtu.be
+216061359:*:RT @robmlove: Countdown to #ATTDevSummit looking forward to hackathon. #AWS @attdeveloper
+216006870:*:"@craftyuk Atlassian Bitbucket now lets you deploy code to AWS Microsoft Azure DigitalOcean http://venturebeat.com/2015/12/02/atlassian-bitbucket-now-lets-you-deploy-code-to-aws-microsoft-azure-digitalocean/ #cloud #feedly"
+217058472:*:87% OFF AWS Certified Developer - Associate 2015 - Use https://www.udemy.com/aws-certified-developer-associate-2015/?couponCode=STARTNOW0015&siteID=Kzz30XxWgII-j2hGjmMRVAsJkm7nhUOGdQ&LSNPUBID=Kzz30XxWgII for discount! #AWS #Developer
+217021678:*:@maknz @taylorotwell @beausimensen Yeah I completely agree and I use it for my AWS sites. It makes managing replication really easy too.
+216036478:*:Four Things to Do as Soon as You Sign up for AWS https://medium.com/@rafgarcia/four-things-to-do-as-soon-as-you-sign-up-for-aws-5c095097679f?utm_content=buffer19cd6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+215018500:*:webdevcourses do you develop? 87% OFF AWS Certified Developer - Associate 2015 - Use https://www.udemy.com/aws-certified-developer-associate-2015/?couponCode=STARTNOW0015&siteID=Kzz30XxWgII-gi.oVmKEYctxENqcPNbmtA&LSNPUBID=Kzz30XxWgII for http://twitter.com/webdevcourses/status/683116803464294400
+216070098:*:Four Things to Do as Soon as You Sign up for #AWS https://medium.com/@rafgarcia/four-things-to-do-as-soon-as-you-sign-up-for-aws-5c095097679f
+214514911:*:CowboyNewsBot: RT iSeattleNews: Senior Web Developer at AWS Mobile http://jobview.monster.com/Senior-Web-Developer-at-AWS-Mobile-Job-Seattle-WA-US-161777209.aspx?utm_source=SMTimes.org&utm_medium=twitter #Seattle #WA #News
+216029800:*:"Four Things to Do as Soon as You Sign up for #AWS https://medium.com/@rafgarcia/four-things-to-do-as-soon-as-you-sign-up-for-aws-5c095097679f?utm_content=buffer4bdd3&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#.fszfsvly0#developer"
+215063037:*:@AEThatsMe AWS man!
+213538309:*:4 AWS Account Almost-There Steps Four Things to Do as Soon as You Sign up for AWS by Rafael Garcia https://medium.com/@rafgarcia/four-things-to-do-as-soon-as-you-sign-up-for-aws-5c095097679f#.9s5eofe08
+214505918:*:"3rdwave_themes do you develop? Four Things to Do as Soon as You Sign up for #AWS https://medium.com/@rafgarcia/four-things-to-do-as-soon-as-you-sign-up-for-aws-5c095097679f?utm_content=buffer4bdd3&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#.fszfsvly0#devel http://twitter.com/3rdwave_themes/status/683122797271465984"
+215001065:*:"Angelinux3000 do you develop? RT 3rdwave_themes: Four Things to Do as Soon as You Sign up for #AWS http://twitter.com/Angelinux3000/status/683122837020803073"
+216006994:*:RT @MarkAllen_Tech: New AWS Public Data Set  3000 Rice Genome #DataScience http://insidebigdata.com/2016/01/01/new-aws-public-data-set-3000-rice-genome/
+216045808:*:Don't Make These Mistakes When Buying Cloud Services http://www.forbes.com/sites/oracle/2015/12/21/dont-make-these-5-mistakes-when-buying-cloud-services/?utm_campaign=ForbesTech&utm_source=TWITTER&utm_medium=social&utm_channel=BrandVoice&linkId=19940032 @awscloud @googlecloud @Oracle @IBMcloud @Azure @VMware @Dell
+216036759:*:#SentimentAnalysis Using #AWS and #RapidMiner @AWScloud https://blogs.aws.amazon.com/bigdata/post/Tx22THFQ9MI86F9/Applying-Machine-Learning-to-Text-Mining-with-Amazon-S3-and-RapidMiner?platform=hootsuite #ML #TextMining #AmazonS3 #EMR #TextAnalytics #tutorial
+217013433:*:pro tip for people using @awscloud: AZ stands for availability zone... not durability zone -- replicate your important data cross-AZs too :(
+217037499:*:"markhker do you develop? RT 3rdwave_themes: Four Things to Do as Soon as You Sign up for #AWS http://twitter.com/markhker/status/683124046477705216"
+217015786:*:http://Muraldevagas.com procura Desenvolvedor Ruby On Rails em Porto Alegre #emprego #javascript #aws http://www.emprego.io/emprego/1211/desenvolvedor-ruby-on-rails
+217042897:*:RT @socialbettors: @____CharlieB Fav could not go an extra 1/2 mile MCL favs win only 20% of the time stampede for the lead..AWS favors c
+216045692:*:@Amazon keeps investing in @awscloud http://news.yahoo.com/amazon-keeps-investing-amazon-services-150736295.html?nf=1 @Oracle @IBM @Azure @googlecloud @Dell @EMCcorp @VMware
+214512589:*:RT @linuxacademyCOM: The largest training library with practice exams exercises  self-paced labs AWS Linux OpenStack and more! https:/
+216000939:*:Given the momentum of AWS this is a low under-estimate. Margins are insane in that business. Forget about retail. https://twitter.com/zerohedge/status/683134330605035528
+217032715:*:RT @NathanTippy: Using Protocol Buffers Avro or Kryo to import/export from AWS? http://www.ociweb.com/ can reduce your data xfer bill by
+214505234:*:We are hiring: Sr. Technical Program Manager Sr. Technical Program Manager http://www.reqcloud.com/jobs/719803/?k=87S9nqZWS3Oy0znrjKUArF/0QBAoscMjAlPrrvNXSAc&utm_source=twitter&utm_campaign=reqCloud_JobPost #job @awscloud
+216006010:*:@fideloper @taylorotwell @mikelbring @ianlandsman @zackkitzmiller db  migrations missing piece. AWS and I disagree on inexpensive but
+214523028:*:RT @esh: Useful: You can now tell Amazon CloudFront to send custom HTTP headers to your origin server https://aws.amazon.com/releasenotes/3931786705643928 #AWS
+216018336:*:Things to Do as Soon as You Sign Up for AWS https://medium.com/@rafgarcia/four-things-to-do-as-soon-as-you-sign-up-for-aws-5c095097679f
+216009670:*:"#AWS year in review - https://cloudonaut.io/aws-year-in-review/"
+216027541:*:@tef I saw them as out of control IRC scripts albeit coded to respond like humans. I brought them under my thumb like errant AWS instances.
+217067552:*:RT @linuxacademyCOM: AWS training library available with all three associate certifications and AWS CSA Professional starting at just $9! h
+217043491:*:RT @geekwire: GeekWire Deals: Master the cloud with these cheap AWS certification courses http://www.geekwire.com/geekwire-picks/geekwire-deals-master-the-cloud-with-these-cheap-aws-certification-courses/ http://twitter.com/geekwire/status/681974494903296001/photo/1
+216035695:*:Laugh and glow fat: PutScheduledUpdateGroupActionendTime http://gate109.blogspot.com/2014/06/putscheduledupdategroupactionendtime.html #AWS #autoscaling
+215052997:*:RT @SPoint: AWS ISO 27001 Certification Increases Total In-Scope Services to 33 http://blogs.aws.amazon.com/security/post/Tx3M70FHVIHHA5O/AWS-ISO-27001-Certification-Increases-Total-In-Scope-Services-to-33 #appsec #appsecfr
+217064909:*:"#Docker registry Vs #Amazon #aws #ECR ? Good read!http://djenriquez.com/2015/12/25/docker-registry-vs-amazon-ecr/?utm_content=bufferfb7cb&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+216012579:*:We are hiring: Senior Software Engineer - Proto http://www.reqcloud.com/jobs/719865/?k=jGluJ1oQGYEdLOOfqXIZtySeH4uh/B/gJUZpBoDuTIs&utm_source=twitter&utm_campaign=reqCloud_JobPost #job @awscloud #job #protocol #networking #aws #mediastreaming
+217039130:*:Try the AWS Cloud http://aws.amazon.com/getting-started/?sc_channel=SM&sc_campaign=Bizo_rt&sc_category=AWS_Cloud&sc_publisher=Bizo&sc_content=LI_RT&sc_matchtype=wave_2&sc_detail=all_traffic_high_tech
+217007348:*:@TezIsHere @myracingtips Yeah aws about to tweet you that xD. You dont DW ahha. Doing yours now :) If both win then ahha
+217063763:*:Devops Engineer 1 Aws Puppet In Healthcare Jobs in San Diego CA #SanDiego #CA #jobs #jobsearch https://www.jobfindly.com/devops-engineer-1-aws-puppet-in-healthcare-jobs-san-diego-ca.html
+217038352:*:New #job opening at Amazon in #Seattle - #Sr #Software Dev Engineer - AWS Glacier Cold Storage #jobs http://neuvoo.com/job.php?id=682mv2n4yg&source=twitter&lang=en&client_id=809&l=Seattle%20Washington%20US&k=Sr%20Software%20Dev%20Engineer%20-%20AWS%20Glacier%20Cold%20Storage
+214509964:*:RT @msquinn: Blog post in a tweet: Google should have been the leader in cloud computing not Amazon AWS but got distracted for years by Goo
+216050475:*:We are Hiring! Database DevOps Support Engineer http://www.reqcloud.com/jobs/709551/?k=Xf4Jx4sTl4Leg7QdfnElnBKAAHZx8%20yqMrMkDlsijOw&utm_source=twitter&utm_campaign=reqCloud_JobPost #job @Amazon #aws #job
+217011174:*:RT @max_pronko: @andreaswittig: #AWS year in review: most important changes in 2015 https://cloudonaut.io/aws-year-in-review/ to read in the morning
+217027499:*:Aws Devops Engineer Sonya Jones Rht Com Jobs in Philadelphia PA #Philadelphia #PA #jobs #jobsearch https://www.jobfindly.com/aws-devops-engineer-sonya-jones-rht-com-jobs-philadelphia-pa.html
+215081036:*:Amazon is hiring a #Director #of Engineering -  AWS Elastic Block Storage apply now! #Seattle #jobs http://neuvoo.com/job.php?id=ifxncgi46c&source=twitter&lang=en&client_id=129&l=Seattle%20Washington%20US&k=Director%20of%20Engineering%20-%20%20AWS%20Elastic%20Block%20Storage
+216009680:*:1st site using @letsencrypt certificate today. A bit tricky as its hosted in @awscloud S3/Cloudfront but it works: https://www.sacredfireuu.org
+217011628:*:Happy New Year! We're growing our teams at @dualsprk &amp; @datapipe info@dualspark.com #cloud #careers #aws #greatTeam http://twitter.com/MatthewScott/status/683175675058982913/photo/1
+217079284:*:We are hiring: Amazon S3 Software Development Engineer http://www.reqcloud.com/jobs/723383/?k=CwhUsJ6LhgT0T0g94uoQTT8QpNEBf40fwAqBYlZQi10&utm_source=twitter&utm_campaign=reqCloud_JobPost #job @awscloud #sde #java #lifecycle #AWS #s3 #storage
+217069353:*:RT @MatthewScott: Happy New Year! We're growing our teams at @dualsprk &amp; @datapipe info@dualspark.com #cloud #careers #aws #greatTeam https
+217027128:*:I'm finding AWS.DynamoDB.DocumentClient is a ++ to developer happiness w/DynamoDB access in #nodejs https://blogs.aws.amazon.com/javascript/post/Tx1OVH5LUZAFC6T/Announcing-the-Amazon-DynamoDB-Document-Client-in-the-AWS-SDK-for-JavaScript #webdev
+217036408:*:RT @ruggerotonelli: Amazon (finally) opens the #AWS Developer Blog to Go https://aws.amazon.com/blogs/developer/category/go/?utm_content=buffercbac5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer #golang
+216010383:*:Anyone here have experience of using Amazon #AWS from #UAE?
+216023315:*:AWS year in review https://cloudonaut.io/aws-year-in-review/
+216027884:*:RT @_Intelligentia: Is an investment in the #CloudComputing worth it: http://www.intelligentia.co.in/calculate-cloud-computing-roi/ #ROI #AWS #IaaS
+217057683:*:RT @NathanTippy: Using Protocol Buffers Avro or Kryo to import/export from AWS? http://www.ociweb.com/ can reduce your data xfer bill by
+216013665:*:RT @KenTabor: I'm finding AWS.DynamoDB.DocumentClient is a ++ to developer happiness w/DynamoDB access in #nodejs https://blogs.aws.amazon.com/javascript/post/Tx1OVH5LUZAFC6T/Announcing-the-Amazon-DynamoDB-Document-Client-in-the-AWS-SDK-for-JavaScript #
+217001238:*:RT @nodenow: I'm finding AWS.DynamoDB.DocumentClient is a ++ to developer happiness w/DynamoDB access in #nodejs https://blogs.aws.amazon.com/javascript/post/Tx1OVH5LUZAFC6T/Announcing-the-Amazon-DynamoDB-Document-Client-in-the-AWS-SDK-for-JavaScript #w
+214505319:*:...Completely true for #aws beginners  https://medium.com/@rafgarcia/four-things-to-do-as-soon-as-you-sign-up-for-aws-5c095097679f?utm_content=buffer0fee3&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+217079267:*:"RT @codeship: #Tutorial: Learn how to run a MEAN web application in #Docker containers on #AWS:http://blog.codeship.com/running-mean-web-application-docker-containers-aws/ https://t.co/CARAY"
+217021970:*:What comprises an #AWS Automatic Weather station http://www.aeronsystems.com/the-components-of-an-automatic-weather-station/ http://twitter.com/AeronSystems/status/683198405485576192/photo/1
+205505307:*:RT @rkedrin: We are hiring: AWS Security Engineer AWS Security Engine http://www.reqcloud.com/jobs/650669/?k=Y9dmkP5scZY28xhQPv%205sPIWgd1Cj/O45knUqiSWKNM&utm_source=twitter&utm_campaign=reqCloud_JobPost #job @awscloud #security #securityengineering
+217010318:*:RT @rkedrin: We are hiring: AWS Security Engineer AWS Security Engine http://www.reqcloud.com/jobs/650669/?k=u43j60N7hIcZ4mE33BlbhR9yoNNHNZnOSFYuh5WRVh4&utm_source=twitter&utm_campaign=reqCloud_JobPost #job @awscloud #security #securityengineering
+217024132:*:RT @awscloud: How-to: build a serverless dynamic DNS system w/ a small script and several AWS services https://medium.com/aws-activate-startup-blog/building-a-serverless-dynamic-dns-system-with-aws-a32256f0a1d8?adbsc=startups_20151230_56830956&adbid=682256867200925696&adbpl=tw&adbpr=66780587 https://t.co
+214507283:*:#wordpress interested with #nodejs. Feels like towing a Ferrari with a Honda to avoid driving stick on the open road. #aws #php #hadoop
+217014556:*:We are hiring: Software Developer Engineer So http://www.reqcloud.com/jobs/719867/?k=D2YXm5BxvfhvKxNmjoYZa5kf0TyjRXhGI40DdaKEC28&utm_source=twitter&utm_campaign=reqCloud_JobPost #job @awscloud #ios #android #windows #job #workspaces #aws @aws
+215013437:*:We are hiring: Software Development Manager - Incident Management Software Development Man http://www.reqcloud.com/jobs/719799/?k=/txaS78AarLG3ybfXZIamfpWBO52vJXsgsHHzqiucwM&utm_source=twitter&utm_campaign=reqCloud_JobPost #job @awscloud #aws
+215008975:*:#Amazon #(AWS) Software Development Engineer - Help us reinvent the Cloud! http://neuvoo.com/job.php?id=6yqumpuq3f&source=twitter&lang=en&client_id=106&l=Cambridge%20Massachusetts%20US&k=Amazon%20(AWS)%20Software%20Development%20Engineer%20-%20Help%20us%20reinvent%20the%20Cloud!
+217063656:*:@taylorotwell a move to AWS and a load balancer possibly? For Envoyer + Forge
+216010839:*:Byte Size News! http://paper.li/_apreston/1333102144?edition_id=c31814b0-b130-11e5-b5fd-002590a5ba2d #Cloud #AWS #Azure #Leadership Stories by @SitesComputer @jennifertweedy
+215007249:*:"@awscloud error on running$aws ecr get-loginCould not connect to the endpoint URL: https://ecr.us-west-1.amazonaws.com/"
+216003502:*:90% OFF AWS Certified SysOps Administrator - Associate 2015 - Use http://onlinecoursespro.com/awssysops for discount. #AWS #amazonwebservices
+217031609:*:Mqtt client per AWS
+212535868:*:aws https://twitter.com/milktearw/status/683226963981410304
+217029636:*:RT @max_pronko: @andreaswittig: #AWS year in review: most important changes in 2015 https://cloudonaut.io/aws-year-in-review/ to read in the morning
+217022172:*:RT @__amitgupta: Amazon DevPay  Makes your Payment Easy and Secure: http://www.slideshare.net/intelligentia_IT/amazon-devpay-makes-your-payment-easy-and-secure #AWS #IaaS #Cloud
+216052105:*:RT @marklit82: #Hadoop up and running w/ #Ubuntu #Docker &amp; #AWS #EMR http://tech.marksblogg.com/hadoop-up-and-running.html http://twitter.com/marklit82/status/682944516756746240/photo/1
+217001412:*:@Rize_consulting - @willcooney - recruiting AWS Solution architects in London - send CV to Cloud@rizeworldwide.com
+216074476:*:@accenturecloud @rackspaceuk - looking to recruit AWS Solution Architects - send CV to John@rizeworldwide.com
+217025747:*:BigDataTweetBot Developer? Join us 4 #FreeHousingSF. RT TopCourses_: 88% off #AWS Certified #Developer - Associat http://twitter.com/BigDataTweetBot/status/683238935091351552
+215034202:*:'How Netflix Deploys Code' by @zef #devops #AWS :) http://www.infoq.com/news/2013/06/netflix?utm_content=bufferce541&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+217050448:*:RT @pplu_io: Very happy!!! Paws (Perl AWS SDK) considered 3rd best Perl distribution of 2015 :) @capside @jeffbarr  https://twitter.com/perlweekly/status/683073320938508288
+217017665:*:RT @rkedrin: We are hiring: AWS Security Engineer AWS Security Engine http://www.reqcloud.com/jobs/650669/?k=QepTY5cIky/c1Aqgc1Fofd8Iffv2Cfo94wPXLzekZdk&utm_source=twitter&utm_campaign=reqCloud_JobPost #job @awscloud #security #securityengineering
+216070428:*:We are hiring: Enterprise Solutions Architect Enterprise Solutions Arc http://www.reqcloud.com/jobs/721907/?k=KZ3B7td4MNOQnOw5BVu%20Nsr2XyQU0MHR0Q36ejJ1/zY&utm_source=twitter&utm_campaign=reqCloud_JobPost #job @awscloud #solutionsarchitect #aws
+216007786:*:Some interesting prevision for 2016 on *aaS *Cloud Containers #API and more http://robhirschfeld.com/2015/12/31/mono-clouds-die-2016-containers-drive-hybrid/?utm_content=buffer0885d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer #aws #docker #openstack
+216037003:*:@blogdoiphone AWS BR recomendo
+216048203:*:Also taking the chance to use Flask-Flatpages and Flask-Freeze to make a static site generator and host it on #aws S3 and cloudfront
+216036946:*:We are hiring: Software Development Engineer http://www.reqcloud.com/jobs/719869/?k=cVLkGM4m7En5Jmr018ZzUoRXfBfMf21wKbDJToT9YOY&utm_source=twitter&utm_campaign=reqCloud_JobPost #job @awscloud #aws #ec2 #windows #kernel #devicedriver #virtuali
+216061359:*:New #job: Systems Administrator / AWS / Puppet / GuildfordGuildford .. http://www.aplitrak.com/?adid=am9obmMuMzYzMTUudHdpQHJlcWl2YS5hcGxpdHJhay5jb20 #jobs #hiring
+216006870:*:Booking your 2016 Caravan / motorhome service #caravan @Caravanalia AWS approved workshop http://www.caravanalia.co.uk http://twitter.com/Caravanalia/status/683260605516623873/photo/1
+217058472:*:Book your 2016 caravan or motorhome service with Caravanalia. AWS approved mobile workshop covering  North Wales.... https://www.facebook.com/photo.php?fbid=744543712345260
+217021678:*:Cuman take in my aws https://twitter.com/jem2gem/status/683262796457504768
+216036478:*:"Saturdays: bastion hosts NATs 'n stuff. #sysadmin #devops #aws"
+215018500:*:Cum aws less know aw mush you want https://twitter.com/jem2gem/status/683264157899223041
+216070098:*:aws
+214514911:*:#udemy #aws - AWS Certified Solutions Architect - Associate 2015 = https://www.udemy.com/aws-certified-solutions-architect-associate-2015/?dtcode=Zsf6dfO2O9hz&siteID=WitejzQugjs-npk7rYGA6t6mPTGQfQ6Qsw&LSNPUBID=WitejzQugjs http://twitter.com/Do_it_Like_/status/683267827814526976/photo/1
+216029800:*:#IT #Job in #Dulles VA: AWS Cloud Operations Engineer at Robert Half Technology http://www.careerarc.com/job-listing/robert-half-technology-jobs-aws-cloud-operations-engineer-17402470?campaign_id=13369&src=1&utm_campaign=TW01&utm_medium=TW&utm_source=JC #Jobs #Hiring #CareerArc
+215063037:*:Join the team! Dev Ops Manager - AWS S3 Webserver Systems D http://www.reqcloud.com/jobs/691253/?k=vb7DeY%20vGFhKmLZ02NmscD1D7TzhxdGYPt3LQe6TFdc&utm_source=twitter&utm_campaign=reqCloud_JobPost #job @awscloud #devops #linux #python #s3 #manager
+213538309:*:We are hiring: Software Development Engineer - Developer Experience Software Development E http://www.reqcloud.com/jobs/719801/?k=9ua4Q4mMugsvbFDOHBdSNqOoo2a5BRjeHLflpR0SD/U&utm_source=twitter&utm_campaign=reqCloud_JobPost #job @awscloud #aws
+214505918:*:"#NewburyJobs Linux Systems Administrator / DevOps / AWS / Puppet / Newbury Newbury: Summary: ... http://www.cv-library.co.uk/job/203374742/Linux-Systems-Administrator-DevOps-AWS-Puppet-Newbury?s=100536&utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Search4UKJobs.com #Newbury #Jobs"
+215001065:*:AWS Podcasts  Banter Predicsis Peak Urban Massage Contentful Babbel and Intel IoT https://aws.amazon.com/blogs/aws/aws-podcasts-banter-predicsis-peak-urban-massage-contentful-babbel-and-intel-iot?utm_content=buffer72f51&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer #aws #cloud #computing
+216006994:*:RT @awscloud: How-to: build a serverless dynamic DNS system w/ a small script and several AWS services https://medium.com/aws-activate-startup-blog/building-a-serverless-dynamic-dns-system-with-aws-a32256f0a1d8?adbsc=startups_20151230_56830956&adbid=682256867200925696&adbpl=tw&adbpr=66780587 https://t.co
+216045808:*:https://www.youtube.com/watch?v=nL2KyKgYqFY AWS Podcasts  Banter Predicsis Peak Urban Massage Contentful Babbel and Intel IoT  http://twitter.com/Sion_Smith/status/683275580947755013
+216036759:*:RT @pplu_io: Very happy!!! Paws (Perl AWS SDK) considered 3rd best Perl distribution of 2015 :) @capside @jeffbarr  https://twitter.com/perlweekly/status/683073320938508288
+217013433:*:Apply to this job: Openings_Cloud Delivery Manager - AWS Azure in NYC NY in New York NY http://www.bullhornreach.com/job/2177480_openings_cloud-delivery-manager-aws-azure-in-nyc-ny-new-york-ny?utm_campaign=v1&shortlink=4443406&utm_content=71&utm_source=twitter.com&referer=None&utm_medium=referral #job
+217037499:*:RT @GRDevNight: Dec 10: Cloud for Devs. @DavidGiard @rbn_jamie @JeffreyPWheeler &amp; @cwoodruff speaking on #aws &amp; #azure https://t.co/j8nT
+217015786:*:Blogged: Building an ElasticSearch cluster in AWS using Packer and Terraform http://www.paulstack.co.uk/blog/2016/01/02/building-an-elasticsearch-cluster-in-aws-with-packer-and-terraform/
+217042897:*:Now hiring for Openings_Cloud Delivery Manager - AWS Azure in Mountain View CA in Mountain View CA http://www.bullhornreach.com/job/2177474_openings_cloud-delivery-manager-aws-azure-in-mountain-view-ca-mountain-view-ca?utm_campaign=v1&shortlink=4443393&utm_content=31&utm_source=twitter.com&referer=None&utm_medium=referral #job
+216045692:*:@stylinsonphones aws ok . Can i have a favor?
+214512589:*:Things to Do as soon as you sign up for AWS : https://news.ycombinator.com/item?id=10823206
+216000939:*:This looks like a pretty cool way to use #predictive analytics in the #cloud #AWS #datascience @Zementis  https://twitter.com/Zementis/status/682965842728849408
+217032715:*:@Border_Artist @AndrewHarding9 I hate to bang on about it but people have really forgotten that AWs first 15 months were pretty bad.
+214505234:*:I gave @Yuko22pi a +K on Amazon Web Services. https://klout.com/Yuko22pi?n=tw&v=share_expertise
+216006010:*:RT @sanketdangi: VPC NAT gateways : transactional uniqueness at scale http://perspectives.mvdirona.com/2015/12/vpc-nat-gateways-transactional-uniqueness-at-scale/ #AWS #NAT #Cloud
+214523028:*:RT @digitalcloudgal: Worth a read...AWS year in review https://cloudonaut.io/aws-year-in-review/
+216018336:*:Senior Operations Engineer gig at @voguemagazine https://unicornhunt.io/jobs/senior-operations-engineer-at-cn-commerce-style-com?utm_content=bufferd35ef&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer #jobs #aws
+216009670:*:We're #hiring! Click to apply: AWS DevOps Engineer - Direct Hire - http://www.careerarc.com/job-listing/robert-half-technology-jobs-aws-devops-engineer-direct-hire-17438412?campaign_id=9565&src=1&utm_campaign=TW01&utm_medium=TW&utm_source=JC #IT #Chantilly VA #Job #Jobs #CareerArc
+216027541:*:RT @garnaat: AWS Developer's Blog for Python. Nice to see this finally happen! https://aws.amazon.com/blogs/developer/category/python/
+217067552:*:"every time #Amazon adds a new service to AWS a UX designer is sent to hell... seriously amazon. hire a designer http://twitter.com/derickbailey/status/683298762869977088/photo/1"
+217043491:*:I'm hiring: Openings_Cloud Delivery Manager - AWS Azure in Mountain View CA in Mountain View CA http://www.bullhornreach.com/job/2177474_openings_cloud-delivery-manager-aws-azure-in-mountain-view-ca-mountain-view-ca?utm_campaign=v1&shortlink=4443393&utm_content=44&utm_source=twitter.com&referer=None&utm_medium=referral #job
+216035695:*:RT @stack72: Blogged: Building an ElasticSearch cluster in AWS using Packer and Terraform http://www.paulstack.co.uk/blog/2016/01/02/building-an-elasticsearch-cluster-in-aws-with-packer-and-terraform/
+215052997:*:RT @UpStream_GS: Now hiring for Openings_Cloud Delivery Manager - AWS Azure in Mountain View CA in Mountain View CA https://t.co/iW5WGjL
+217064909:*:"RT @derickbailey: every time #Amazon adds a new service to AWS a UX designer is sent to hell... seriously amazon. hire a designer https"
+216012579:*:Now hiring for Cloud Delivery Manager - AWS in Seattle WA - 8769 in Seattle WA http://www.bullhornreach.com/job/2153022_cloud-delivery-manager-aws-in-seattle-wa-8769-seattle-wa?utm_campaign=v1&shortlink=4397816&utm_content=51&utm_source=twitter.com&referer=None&utm_medium=referral #job
+217039130:*:IT AWS JUST A PAPER JUST A PAPERCUUTU
+217007348:*:@amirrajan @knunery that's a great place for UX for sure. and i do like the AWS SDK for Node. it's fairly well done.
+217063763:*:California DOJ Signs Security Agreement With Amazon Web Services via @civsource https://civsourceonline.com/2015/12/23/california-doj-signs-security-agreement-with-amazon-web-services/
+217038352:*:Cloud Engineer in Chicago IL http://www.bullhornreach.com/sites/opensystems/job/2185224_cloud-engineer-chicago-il?utm_campaign=v1&utm_content=14&utm_source=twitter.com&referer=None&utm_medium=referral #jobs #cloud #aws
+214509964:*:RT @pplu_io: Very happy!!! Paws (Perl AWS SDK) considered 3rd best Perl distribution of 2015 :) @capside @jeffbarr  https://twitter.com/perlweekly/status/683073320938508288
+216050475:*:We are hiring: Senior Software Engineer - Win http://www.reqcloud.com/jobs/719871/?k=CKn%20AVUjesh//vUrMECJDRMdvrhdAPbBUqvZ2LrjRYk&utm_source=twitter&utm_campaign=reqCloud_JobPost #job @awscloud #distributedcomputing #aws #windows #job @awsclou
+217011174:*:RT @ruggerotonelli: Amazon (finally) opens the #AWS Developer Blog to Go https://aws.amazon.com/blogs/developer/category/go/?utm_content=buffercbac5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer #golang
+217027499:*:Aws Architect Jobs in Chicago IL #Chicago #IL #jobs #jobsearch https://www.jobfindly.com/aws-architect-jobs-chicago-il.html
+215081036:*:"RT @derickbailey: every time #Amazon adds a new service to AWS a UX designer is sent to hell... seriously amazon. hire a designer https"
+212500781:*:Will Amazon Web Services Lose Its Position to Microsoft in 2016? - Market Realist http://www.scoop.it/t/cloud-and-data-center-topics/p/4057646582/2016/01/02/will-amazon-web-services-lose-its-position-to-microsoft-in-2016-market-realist
+217050731:*:@reinink Agreed. AWS although more complicated is safer due to its experience and greater need to deflect DDOS attacks.
+217004297:*:Building an ElasticSearch Cluster in AWS with Packer and Terraform http://www.paulstack.co.uk/blog/2016/01/02/building-an-elasticsearch-cluster-in-aws-with-packer-and-terraform/
+216007658:*:@Ansjh good point its definitely something to watch out for. Im used to being protected by AWS Security Groups and rarely use iptables.
+216006042:*:@fideloper @taylorotwell Do you ever wonder if it's someone from azure DO or aws launching the attacks?
+217079609:*:Building an ElasticSearch cluster in AWS with Packer and Terraform - Adventures of a wannabe geek! http://paulstack.co.uk/blog/2016/01/02/building-an-elasticsearch-cluster-in-aws-with-packer-and-terraform/
+215042364:*:RT @gregsramblings: New: AWS to @googlecloud service mapping (https://cloud.google.com/free-trial/docs/map-aws-google-cloud-platform) and Azure to @googlecloud service mapping (https://t
+216067465:*:"RT @derickbailey: every time #Amazon adds a new service to AWS a UX designer is sent to hell... seriously amazon. hire a designer https"
+217059071:*:@HFM17Mile if building your app on AWS or Azure wouldn't be easier to use their DB alternative?
+217028569:*:RT @claco: Building an ElasticSearch cluster in AWS with Packer and Terraform - Adventures of a wannabe geek! http://paulstack.co.uk/blog/2016/01/02/building-an-elasticsearch-cluster-in-aws-with-packer-and-terraform/
+214507442:*:Linux Systems Administrator - AWS (Linux) #Manchester #jobs  Apply Now at http://www.jobsball.co.uk/?page=jobs-in-Manchester&sr=84447421
+216017947:*:This #IT #job might be a great fit for you: Linux Systemx Engineer w/ AWS Experience! - http://www.careerarc.com/job-listing/robert-half-technology-jobs-linux-systemx-engineer-w-aws-experience-17640154?campaign_id=10367&src=1&utm_campaign=TW01&utm_medium=TW&utm_source=JC #MenloPark CA #Hiring
+217007423:*:"RT @derickbailey: every time #Amazon adds a new service to AWS a UX designer is sent to hell... seriously amazon. hire a designer https"
+217014607:*:I'd like something roughly as good on perf/$ (rules out AWS AFAICT) as digitalocean but less clown-shoes - suggestions? Linode all I know.
+216005552:*:Building a Serverless Dynamic DNS System with AWS @AWSActivate https://medium.com/aws-activate-startup-blog/building-a-serverless-dynamic-dns-system-with-aws-a32256f0a1d8
+215019878:*:RT @linuxacademyCOM: AWS training library available with all three associate certifications and AWS CSA Professional starting at just $9! h
+216059098:*:AWS year in review https://cloudonaut.io/aws-year-in-review/
+215032276:*:RT @awscloud: How-to: build a serverless dynamic DNS system w/ a small script and several AWS services https://medium.com/aws-activate-startup-blog/building-a-serverless-dynamic-dns-system-with-aws-a32256f0a1d8?adbsc=startups_20151230_56830956&adbid=682256867200925696&adbpl=tw&adbpr=66780587 https://t.co
+216009680:*:AWS is great provided you've abstracted it away to invisibility so you could mix or abandon it when you're ready.
+217011628:*:RT @stack72: Blogged: Building an ElasticSearch cluster in AWS using Packer and Terraform http://www.paulstack.co.uk/blog/2016/01/02/building-an-elasticsearch-cluster-in-aws-with-packer-and-terraform/
+217079284:*:"RT @derickbailey: every time #Amazon adds a new service to AWS a UX designer is sent to hell... seriously amazon. hire a designer https"
+217069353:*:Deal: Earn #AWS certifications# for only $30 | Pocketnow http://pocketnow.com/2015/12/31/aws-certification-deal
+217027128:*:"RT @derickbailey: every time #Amazon adds a new service to AWS a UX designer is sent to hell... seriously amazon. hire a designer https"
+217036408:*:@jared_w_smith DNSimple or AWS Route53
+216010383:*:RT @garnaat: AWS Developer's Blog for Python. Nice to see this finally happen! https://aws.amazon.com/blogs/developer/category/python/
+216023315:*:RT @enectoux: Public clouds Hybrid clouds Private clouds and PaaS offerings: alternatives to AWS http://www.scoop.it/t/enterprise-architecture-by-emeric-nectoux/p/4021317339/2014/05/14/public-clouds-hybrid-clouds-private-clouds-and-paas-offerings-alternatives-to-aws #cloud
+216027884:*:RT @garnaat: AWS Developer's Blog for Python. Nice to see this finally happen! https://aws.amazon.com/blogs/developer/category/python/
+217057683:*:RT @enectoux: Public clouds Hybrid clouds Private clouds and PaaS offerings: alternatives to AWS http://www.scoop.it/t/enterprise-architecture-by-emeric-nectoux/p/4021317339/2014/05/14/public-clouds-hybrid-clouds-private-clouds-and-paas-offerings-alternatives-to-aws #cloud
+216013665:*:RT @WeAreManthan: Manthan strengthens #Cloud Strategy by refreshing its solutions on AWS https://www.manthan.com/manthan/pressreleases/1152-manthan-strengthens-cloud-strategy-by-refreshing-its-solutions-on-aws?utm_content=bufferacbcc&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+217001238:*:Amazon Web Services joins Microsoft IBM with platform to run your home http://www.bizjournals.com/atlanta/news/2015/12/22/heres-how-amazon-plans-to-run-your-home-before.html?utm_content=buffer33178&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+214505319:*:AWS free-tier expiry day.  &lt;fx&gt;buys lots of reserved instances&lt;/fx&gt;
+217079267:*:I pay DO $28 a month for 3 sites. And I still pay Amazon $50 to host small static assets. Guess who's completely dropping AWS! I meant to...
+217021970:*:"RT @derickbailey: every time #Amazon adds a new service to AWS a UX designer is sent to hell... seriously amazon. hire a designer https"
+205505307:*:How impossible would it that @awscloud is behind the attacks on @linode?
+217010318:*:RT @GonzaloGarde: Building a Serverless Dynamic DNS System with AWS  AWS Startup Collection - https://medium.com/aws-activate-startup-blog/building-a-serverless-dynamic-dns-system-with-aws-a32256f0a1d8?adbpl=tw&adbsc=startups_20151230_56830486 RT @jose_garde
+217024132:*:http://www.caravanalia.co.uk/ mobile caravan and motorhome servicing in North Wales AWS approved workshop
+214507283:*:@shadowcat_mst AWS won the CaaS war.  Running HMX anywhere else needed a bloody good reason: I never found one.
+217014556:*:"RT @derickbailey: every time #Amazon adds a new service to AWS a UX designer is sent to hell... seriously amazon. hire a designer https"
+215013437:*:Accenture #Engineering #Job: Amazon Web Services (AWS) Architect Sr. Manager (#WashingtonDC DC) http://www.careerarc.com/job-listing/accenture-jobs-amazon-web-services-aws-architect-sr-manager-17031811?campaign_id=3789&src=1&utm_campaign=TW01&utm_medium=TW&utm_source=JC #Jobs #Hiring
+215008975:*:#RedwoodShores CA #IT #Job: Sr. BigData Engineer: Java Scala Spark Hadoop pig Hive SQL AWS at Oracle http://www.careerarc.com/job-listing/oracle-jobs-sr-bigdata-engineer-java-scala-spark-hadoop-pig-hive-sql-aws-17077423?campaign_id=9445&src=1&utm_campaign=TW01&utm_medium=TW&utm_source=JC #Jobs
+217063656:*:@thedoh AWS!
+216010839:*:RT @Caravanalia: http://www.caravanalia.co.uk/ mobile caravan and motorhome servicing in North Wales AWS approved workshop
+215007249:*:@OVH wish you would make life easy for devs and write some quick-start guides for the storage api. Wasted a day trying to auth. Might go AWS
+216003502:*:We are hiring: Enterprise Solutions Architect Enterprise Solutions Arc http://www.reqcloud.com/jobs/721907/?k=CEqhWfxkhzbngao8NaBt9xuRRcdsbfmih7SniXJblBmZZkreSmwwa3j6na62fmSFA5PtKw6kvR5UTKlyKfpwMg&utm_source=twitter&utm_campaign=reqCloud_JobPost #job @awscloud #solutionsarchitect #aws
+217031609:*:We are hiring: DevOps Cloud Architect DevOps Cloud Architect (San F http://www.reqcloud.com/jobs/723267/?k=RROL5qK5l8hmO8KMVgkcDjmwGM8u19%20r3T5izlyS%20gMLIKvNm3dQTF/BtTL7a/ANJNG8qkqs/CkfrZ0aWIJ2XQ&utm_source=twitter&utm_campaign=reqCloud_JobPost #job @awscloud #amazon #AWS #cloud #devops
+212535868:*:"RT @derickbailey: every time #Amazon adds a new service to AWS a UX designer is sent to hell... seriously amazon. hire a designer https"
+217029636:*:"RT @derickbailey: every time #Amazon adds a new service to AWS a UX designer is sent to hell... seriously amazon. hire a designer https"
+217022172:*:"RT @codeship: #Tutorial: Learn how to run a MEAN web application in #Docker containers on #AWS:http://blog.codeship.com/running-mean-web-application-docker-containers-aws/ https://t.co/CARAY"
+216052105:*:"RT @derickbailey: every time #Amazon adds a new service to AWS a UX designer is sent to hell... seriously amazon. hire a designer https"
+217001412:*:RT @stack72: Blogged: Building an ElasticSearch cluster in AWS using Packer and Terraform http://www.paulstack.co.uk/blog/2016/01/02/building-an-elasticsearch-cluster-in-aws-with-packer-and-terraform/
+216074476:*:"RT @derickbailey: every time #Amazon adds a new service to AWS a UX designer is sent to hell... seriously amazon. hire a designer https"
+217025747:*:#AWS Certified Developer - Associate 2015 |Just $10|#Udemy #Bestseller #Coupon https://www.udemy.com/aws-certified-developer-associate-2015/?siteID=DAI0zMBmpjc-p8AgPa.eG72Z5VfZo.g7Zg&LSNPUBID=DAI0zMBmpjc
+215034202:*:RT @GonzaloGarde: Building a Serverless Dynamic DNS System with AWS  AWS Startup Collection - https://medium.com/aws-activate-startup-blog/building-a-serverless-dynamic-dns-system-with-aws-a32256f0a1d8?adbpl=tw&adbsc=startups_20151230_56830486 RT @jose_garde
+217050448:*:Trying to figure out which online backups use AWS as backend. Want to have a backup for my ACD that I can use if AWS is down. #tech
+217017665:*:@dpradhanbjp @PMOIndia Hon'ble Sir DBTL is must not in Petro Subsi but all the payments must be through NEFT/RTGS! In Indira Aws 20k hushed
+216070428:*:AWS progression as measured by your shortcut bar @awscloud http://twitter.com/mhj_work/status/683356586748854272/photo/1
+216007786:*:We are hiring: System Engineer - MS Exchange http://www.reqcloud.com/jobs/719873/?k=W2Cp7ULwGAxbuoxhw7L%20HgfnNiCUNJ7Ok92J1BiiX7o&utm_source=twitter&utm_campaign=reqCloud_JobPost #job @awscloud #msexchange #automation #powershell #fleet #deskto
+216037003:*:We are hiring! Cloud Support Engineer - Application Services http://www.reqcloud.com/jobs/709553/?k=hnHdhDnu6KKL9wsLW0z9XFgn9f1IJy0WNNYNp8m%20Eho&utm_source=twitter&utm_campaign=reqCloud_JobPost #job @Amazon #aws #job
+216048203:*:"RT @derickbailey: every time #Amazon adds a new service to AWS a UX designer is sent to hell... seriously amazon. hire a designer https"
+216036946:*:"RT @derickbailey: every time #Amazon adds a new service to AWS a UX designer is sent to hell... seriously amazon. hire a designer https"
+216061359:*:"RT @derickbailey: every time #Amazon adds a new service to AWS a UX designer is sent to hell... seriously amazon. hire a designer https"
+216006870:*:"@Mobi2Buy @awscloud the Amazon EC2 Container is only launched in us-east-1. http://docs.aws.amazon.com/general/latest/gr/rande.html#ecr_regionTry --region=us-east-1 with your cmd."
+217058472:*:RT @garnaat: AWS Developer's Blog for Python. Nice to see this finally happen! https://aws.amazon.com/blogs/developer/category/python/
+217021678:*:I just be like aws thats so sweett ctfu
+216036478:*:Setup Let's Encrypt on Amazon CloudFront #letsencrypt #aws #cloudfront https://richardkall.se/setup-lets-encrypt-ssl-certificate-on-amazon-cloudfront/
+215018500:*:If you have and old -manual transmission- #BMW  you won't  need a #girlfriend .. all you need is to #drift
+216070098:*:@KirinDave @evanphx (glowers at AWS libraries)
+214514911:*:Being new to AWS this was helpful. https://medium.com/@rafgarcia/four-things-to-do-as-soon-as-you-sign-up-for-aws-5c095097679f#.wgwthqa3o
+216029800:*:Working on a template for creating Twitter bots with AWS Lambda https://github.com/tdhopper/tau @joelgrus
+215063037:*:Use AWS S3 as an extension of yourenvironment http://netshock.co.uk/netshock/use-aws-s3-as-an-extension-of-your-environment/
+213538309:*:@codeguy @reinink how much do i need to pay you to configure AWS then explain their pricing to me?
+214505918:*:"RT @derickbailey: every time #Amazon adds a new service to AWS a UX designer is sent to hell... seriously amazon. hire a designer https"
+215001065:*:"RT @MTotolrahaman: #ssh-error when using ansible with AWS ec2#Tech #Internet #Programminghttp://www.abizy.com/p/view.html?url=http://stackoverflow.com/questions/34569615/ssh-error-when-using-ansible-with-aws-ec2"
+216006994:*:We are hiring: Software Development Manager - AWS S3 Frontend Sof http://www.reqcloud.com/jobs/694883/?k=BhvGEh4ucE7cFJDuotmuOV5UwZculEehCf8Id3VUrZg&utm_source=twitter&utm_campaign=reqCloud_JobPost #job @awscloud #manager #s3 #API #operations
+216045808:*:Use a highly available NAT gateway to give private subnets outbound Internet access: http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/vpc-nat-gateway.html?adbsc=docs_20160102_56673526&adbid=683367429049683968&adbpl=tw&adbpr=66780587 http://twitter.com/awscloud/status/683367429049683968/photo/1
+216036759:*:AWS https://medium.com/@odayibasi/aws-cf2fd9c04cdb#.pwsqh39tk
+217013433:*:RT @awscloud: Use a highly available NAT gateway to give private subnets outbound Internet access: http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/vpc-nat-gateway.html?adbsc=docs_20160102_56673526&adbid=683367429049683968&adbpl=tw&adbpr=66780587 https://t.co/SXF
+217037499:*:RT @awscloud: Use a highly available NAT gateway to give private subnets outbound Internet access: http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/vpc-nat-gateway.html?adbsc=docs_20160102_56673526&adbid=683367429049683968&adbpl=tw&adbpr=66780587 https://t.co/SXF
+217015786:*:RT @awscloud: Use a highly available NAT gateway to give private subnets outbound Internet access: http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/vpc-nat-gateway.html?adbsc=docs_20160102_56673526&adbid=683367429049683968&adbpl=tw&adbpr=66780587 https://t.co/SXF
+217042897:*:We are hiring: Software Development Manager - AWS S3 Frontend Sof http://www.reqcloud.com/jobs/694883/?k=BhvGEh4ucE7cFJDuotmuOV5UwZculEehCf8Id3VUrZg&utm_source=twitter&utm_campaign=reqCloud_JobPost #job awscloud #manager #s3 #API #operations
+216045692:*:RT @awscloud: Use a highly available NAT gateway to give private subnets outbound Internet access: http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/vpc-nat-gateway.html?adbsc=docs_20160102_56673526&adbid=683367429049683968&adbpl=tw&adbpr=66780587 https://t.co/SXF
+214512589:*:@Steeenode @linode I moved main client to a New Jersey linode that seems to be unaffected by DDoS. Probably going to move to AWS EC2.
+216000939:*:RT @awscloud: Use a highly available NAT gateway to give private subnets outbound Internet access: http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/vpc-nat-gateway.html?adbsc=docs_20160102_56673526&adbid=683367429049683968&adbpl=tw&adbpr=66780587 https://t.co/SXF
+217032715:*:RT @tdhopper: Working on a template for creating Twitter bots with AWS Lambda https://github.com/tdhopper/tau @joelgrus
+214505234:*:aws ahre https://twitter.com/EresCurioso/status/683372309420347392
+216006010:*:RT @SynStaff_IT_Job: Jr. .NET Developer ASAP! Must have C# http://www.asp.net/ SQL 2008 Web Services HTML XML. Any experience with
+214523028:*:RT @JoeIngeno: Amazon's definition of a virtual CPU is changing making cloud comparison more difficult http://www.informationweek.com/cloud/amazons-virtual-cpu-you-figure-it-out/a/d-id/1323652 @informatio
+216018336:*:RT @gmbrady: 2015 wasn't about AWS. It was about everybody getting ready to try to beat AWS http://www.theregister.co.uk/2015/12/28/2015_year_review_enterprsie_cloud/
+216009670:*:donnemartin/saws - A supercharged AWS command line interface (CLI). - https://github.com/donnemartin/saws?utm_term=0_9e26887fc5-e56d84f6e5-299902373&utm_content=buffer936ad&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+216009680:*:RT @awscloud: Use a highly available NAT gateway to give private subnets outbound Internet access: http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/vpc-nat-gateway.html?adbsc=docs_20160102_56673526&adbid=683367429049683968&adbpl=tw&adbpr=66780587 https://t.co/SXF
+217011628:*:We are hiring: Senior Software Engineer - AWS CodePipeline Senior Software Engineer - AWS CodeP http://www.reqcloud.com/jobs/720215/?k=lPWCRA0iuNvCNxOtikDH6Bkm1erw7xFQ8xZT00a2Kr8&utm_source=twitter&utm_campaign=reqCloud_JobPost #job @awscloud
+217079284:*:AWS Engineer - Cognizant: (#Miamisburg OH) http://www.careerarc.com/job-listing/cognizant-jobs-aws-engineer-17218064?campaign_id=15290&src=1&utm_campaign=TW01&utm_medium=TW&utm_source=JC #IT #Job #Jobs #Hiring #CareerArc
+217069353:*:In the first half of 2016 AWS plans to launch a new high-memory Amazon EC2 instance type called X1 instances. The X1 instances will offer
+217027128:*:I'm hiring: Cloud DevOps AWS Engineers in Bellevue WA - 8796 in Bellevue WA http://www.bullhornreach.com/job/2171350_cloud-devops-aws-engineers-in-bellevue-wa-8796-bellevue-wa?utm_campaign=v1&shortlink=4434093&utm_content=28&utm_source=twitter.com&referer=None&utm_medium=referral #job
+217036408:*:RT @garnaat: AWS Developer's Blog for Python. Nice to see this finally happen! https://aws.amazon.com/blogs/developer/category/python/
+216010383:*:RT @velocityconf: Avoid AWS lock-in. Deploy &amp; admin coded infrastructure anywhere w/ @Hashicorp Terraform http://www.oreilly.com/pub/e/3615?cmp=tw-webops-webcast-info-webcast_wop https://t

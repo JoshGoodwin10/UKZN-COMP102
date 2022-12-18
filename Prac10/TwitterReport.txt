@@ -1,0 +1,32 @@
+Most Famous: 
+ID: 214507283
+First Name: Jadin
+Last Name: Jayram
+Country: ZA
+Followers: 4988
+# Tweets: 7
+Tweets:
+RT @Capgemini: How can your business benefit from catalog-based IT services by #Cloud providers like #AWS? https://www.capgemini.com/beyond-the-buzz/2016-tech-predictions?utm_source=twitter&utm_medium=text&utm_term=predictions&utm_content=campaign&utm_campaign=businesstechpredictions2016 https://
+RT @linuxacademyCOM: AWS CSA Association and Professional available with labs study guides and practice exams first month $9! https://t.c
+Pass the Amazon Web Services Certification Exams with This $19 Bundle http://www.sitepoint.com/pass-the-amazon-web-services-certification-exams-with-this-19-bundle/?utm_content=bufferd2011&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+Apply now to work for Amazon as #Senior #Software Development Engineer AWS Networking in #Dublin #jobs http://ie.neuvoo.com/job.php?id=u85dbsguy4&source=twitter&lang=en&client_id=1199&l=Dublin%20Dublin%20IE&k=Senior%20Software%20Development%20Engineer%20AWS%20Networking
+We are hiring: Software Development Manager - AWS S3 Frontend Sof http://www.reqcloud.com/jobs/694883/?k=kIOY3mYT4JyHDRLZnvZ4vaV%20bcAa/VUDahcJTMgnuTY&utm_source=twitter&utm_campaign=reqCloud_JobPost #job @awscloud #manager #s3 #API #operations
+#wordpress interested with #nodejs. Feels like towing a Ferrari with a Honda to avoid driving stick on the open road. #aws #php #hadoop
+@shadowcat_mst AWS won the CaaS war.  Running HMX anywhere else needed a bloody good reason: I never found one.
+
+Most Active: 
+ID: 216009680
+First Name: Lamiz
+Last Name: Anwar
+Country: ZA
+Followers: 4130
+# Tweets: 8
+Tweets:
+RT @Capgemini: How can your business benefit from catalog-based IT services by #Cloud providers like #AWS? https://www.capgemini.com/beyond-the-buzz/2016-tech-predictions?utm_source=twitter&utm_medium=text&utm_term=predictions&utm_content=campaign&utm_campaign=businesstechpredictions2016 https://
+RT @linuxacademyCOM: AWS CSA Association and Professional available with labs study guides and practice exams first month $9! https://t.c
+Pass the Amazon Web Services Certification Exams with This $19 Bundle http://www.sitepoint.com/pass-the-amazon-web-services-certification-exams-with-this-19-bundle/?utm_content=bufferd2011&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+Apply now to work for Amazon as #Senior #Software Development Engineer AWS Networking in #Dublin #jobs http://ie.neuvoo.com/job.php?id=u85dbsguy4&source=twitter&lang=en&client_id=1199&l=Dublin%20Dublin%20IE&k=Senior%20Software%20Development%20Engineer%20AWS%20Networking
+We are hiring: Software Development Manager - AWS S3 Frontend Sof http://www.reqcloud.com/jobs/694883/?k=kIOY3mYT4JyHDRLZnvZ4vaV%20bcAa/VUDahcJTMgnuTY&utm_source=twitter&utm_campaign=reqCloud_JobPost #job @awscloud #manager #s3 #API #operations
+#wordpress interested with #nodejs. Feels like towing a Ferrari with a Honda to avoid driving stick on the open road. #aws #php #hadoop
+@shadowcat_mst AWS won the CaaS war.  Running HMX anywhere else needed a bloody good reason: I never found one.
+RT @awscloud: Use a highly available NAT gateway to give private subnets outbound Internet access: http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/vpc-nat-gateway.html?adbsc=docs_20160102_56673526&adbid=683367429049683968&adbpl=tw&adbpr=66780587 https://t.co/SXF

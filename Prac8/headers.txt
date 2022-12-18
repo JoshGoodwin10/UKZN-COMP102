@@ -1,0 +1,8 @@
+public class Athlete {
+    public Athlete(String name,int age){
+    public String getName() {
+    public int getAge() {
+    public double getBestThrow () {
+    public String toString(){
+    private double getMinIndex(){
+    public void update(double newThrow){
